@@ -1,4 +1,6 @@
 <!--
+### Hi there 👋
+
 **GitHiru/GitHiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,16 +17,6 @@ Here are some ideas to get you started:
 
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
 
-### Hi there 👋
-
-
-<!--
-２０２０：活動実績
-<img src="https://grass-graph.moshimo.works/images/GitHiru.png">
--->
-
----
-
 ### Infographics:
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
@@ -38,4 +30,9 @@ Here are some ideas to get you started:
 
 ### Evaluation：
 ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
+
+<!--
+２０２０：活動実績
+<img src="https://grass-graph.moshimo.works/images/GitHiru.png">
+-->
 
