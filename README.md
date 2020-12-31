@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
 
-### Infographics: 
+## Infographics: 
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
 
 ---
-### Languages and Tools:
 ## Skills
 ### Programming Languages:
 <p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
