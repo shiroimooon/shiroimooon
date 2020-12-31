@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<img src="https://grass-graph.moshimo.works/images/GitHiru.png">
+
 <!--
 **GitHiru/GitHiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +25,6 @@ Here are some ideas to get you started:
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
-
 
 ---
 ### Languages and Tools:
