@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/Githiru/count.svg)
+
 ### Hi there 👋
 
 <!--
