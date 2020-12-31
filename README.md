@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/Githiru/count.svg)
+<img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
 
 ### Hi there 👋
 
