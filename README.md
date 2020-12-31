@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
 
-### Infographics:
+### Infographics: 
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
 ![chart](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)]
