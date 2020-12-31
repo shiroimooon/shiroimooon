@@ -18,20 +18,33 @@ Here are some ideas to get you started:
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
 
 ### Infographics: 
+![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 ![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
 ---
 
-### Skills
-#### Programming Languages:
+### Skills:
+<p align="left">
+    <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.php.net" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+</p>
+
+<!-- 
+### Skills:
+#### Programming Languages
 <p align="left">
     <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.php.net" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p>
 
-#### Library / Framework:
+#### Library / Framework
 <p align="left">
     <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
     <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
@@ -40,7 +53,7 @@ Here are some ideas to get you started:
     <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
-#### Frontend Development:
+#### Frontend Development
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -50,7 +63,7 @@ Here are some ideas to get you started:
 </p>
 
 
-#### Database / Devops:
+#### Database / Devops
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://www.postgresql.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
@@ -61,11 +74,9 @@ Here are some ideas to get you started:
     <a href="https://www.linux.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
 </p>
+-->
 
 ---
-
-### Evaluation：
-![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
 
 <!--
 ２０２０：活動実績
