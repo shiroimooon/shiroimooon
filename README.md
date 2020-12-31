@@ -1,9 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Githiru/count.svg)
-
-### Hi there 👋
-
-<img src="https://grass-graph.moshimo.works/images/GitHiru.png">
-
 <!--
 **GitHiru/GitHiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/Githiru/count.svg)
+
+### Hi there 👋
+
+
+<!--
+２０２０：活動実績
+<img src="https://grass-graph.moshimo.works/images/GitHiru.png">
 -->
 
 ---
