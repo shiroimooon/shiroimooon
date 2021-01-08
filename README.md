@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=15%>
+<img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
 ### Infographics: 
 ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
