@@ -39,7 +39,23 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<!-- Heroku -->
+<a href="https://heroku.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+<!-- Vagrant -->
+<a href="https://www.vagrantup.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+
+<!-- sqlite -->
+<a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<!-- PostgresSQL -->
+<a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
 <p>
@@ -73,24 +89,6 @@ Here are some ideas to get you started:
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
 </p>
 
-<p>
-<!-- Heroku -->
-<a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-<!-- Vagrant -->
-<a href="https://www.vagrantup.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-
-<!-- sqlite -->
-<a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<!-- PostgresSQL -->
-<a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p> 
 
 <!--a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a-->
