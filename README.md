@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
-### Infographics: 
-![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
 
 ![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 ![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
----
-
-### Languages and Tools:
 <p>
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank">
