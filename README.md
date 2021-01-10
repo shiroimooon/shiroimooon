@@ -77,8 +77,9 @@ Here are some ideas to get you started:
 <a href="https://www.chartjs.org" target="_blank">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
 
-<!--a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a-->
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
