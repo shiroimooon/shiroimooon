@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
 
-<p>
+
+
 <!-- python -->
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sqlite" width="40" height="40"/></a> 
