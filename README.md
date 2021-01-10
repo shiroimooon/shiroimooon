@@ -17,19 +17,12 @@ Here are some ideas to get you started:
 
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
-
-![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
-![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-
-<p>
 <!-- Bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<!-- <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> -->
 <!-- Linux -->
-<a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<!-- <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -40,9 +33,9 @@ Here are some ideas to get you started:
 <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <!-- Vagrant -->
-<a href="https://www.vagrantup.com/" target="_blank"> 
+<!-- <a href="https://www.vagrantup.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-
+ -->
 <!-- sqlite -->
 <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
@@ -83,13 +76,19 @@ Here are some ideas to get you started:
 <!-- ChartJS -->
 <a href="https://www.chartjs.org" target="_blank">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
-</p>
-
 
 <!--a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a-->
+
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
+
+![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+
+
 <!--
 ２０２０：活動実績
 <img src="https://grass-graph.moshimo.works/images/GitHiru.png">
 -->
-
