@@ -84,9 +84,11 @@ Here are some ideas to get you started:
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
 
-<img alt='graph' width=50% src='https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg'>
-<img alt='chart1' width=50% src='https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg'>
-<img alt='chart2' width=50% src='https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg'>
+
+<img alt='graph' width=70% src='https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg'>
+
+![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
 
 <!--
