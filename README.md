@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=2b2d2d)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=2b2d2d)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=2b2d2d)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=2b2d2d)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=open-cv&style=flat&color=2b2d2d)
 ![Keras](https://img.shields.io/badge/-Keras-D00000.svg?logo=keras&style=flat&color=2b2d2d)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d)
 ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=2b2d2d)
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=2b2d2d)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat&color=2b2d2d)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=2b2d2d)
-![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=2b2d2d)
 
 ![Apple](https://img.shields.io/badge/Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=2b2d2d)
@@ -73,6 +72,7 @@ Here are some ideas to get you started:
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=2b2d2d)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d)
 ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=2b2d2d)
+![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=2b2d2d)
 -->
 
 
