@@ -90,6 +90,15 @@ Here are some ideas to get you started:
 ![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
 
+<!-- BADGE -->
+<!--
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
+![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
+![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
+-->
+
 <!--
 ２０２０：活動実績
 <img src="https://grass-graph.moshimo.works/images/GitHiru.png">
