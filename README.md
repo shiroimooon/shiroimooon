@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=2b2d2d)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=2b2d2d)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=2b2d2d)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=2b2d2d)
 ![Keras](https://img.shields.io/badge/-Keras-D00000.svg?logo=keras&style=flat&color=2b2d2d)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d)
 ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=2b2d2d)
@@ -37,21 +38,28 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=2b2d2d)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=2b2d2d)
+![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=2b2d2d)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=2b2d2d)
 ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=2b2d2d)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=2b2d2d)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=2b2d2d)
 
 ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=2b2d2d)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat&color=2b2d2d)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=2b2d2d)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=2b2d2d)
 
 ![Apple](https://img.shields.io/badge/Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=2b2d2d)
 
-![GoogleAds](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=2b2d2d)
-![GoogleAnalytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d)
-![GoogleTagManager](https://img.shields.io/badge/-Google%20Tag%20Manager-E37400.svg?logo=google-tag-manager&style=flat&color=2b2d2d)
-![GoogleSearchConsole](https://img.shields.io/badge/-Google%20Search%20Console-E37400.svg?logo=google-search-console&style=flat&color=2b2d2d)
-![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58.svg?logo=google-sheets&style=flat&color=2b2d2d)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=2b2d2d)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d)
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-E37400.svg?logo=google-tag-manager&style=flat&color=2b2d2d)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-E37400.svg?logo=google-search-console&style=flat&color=2b2d2d)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-.svg?logo=google-sheets&style=flat&color=2b2d2d)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=2b2d2d)
+
+![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=2b2d2d)
 
 
 <!--Cf.  https://simpleicons.org/
@@ -61,6 +69,10 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=2b2d2d)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=2b2d2d)
 ![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=2b2d2d)
+![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=2b2d2d)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d)
+![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=2b2d2d)
 -->
 
 
