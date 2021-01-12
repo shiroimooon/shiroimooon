@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=2b2d2d)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=2b2d2d)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=2b2d2d)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=open-cv&style=flat&color=2b2d2d)
 ![Keras](https://img.shields.io/badge/-Keras-D00000.svg?logo=keras&style=flat&color=2b2d2d)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d)
 ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=2b2d2d)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=2b2d2d)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=2b2d2d)
@@ -37,7 +35,6 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&style=flat&color=2b2d2d)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=2b2d2d)
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=2b2d2d)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=2b2d2d)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=2b2d2d)
 ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=2b2d2d)
@@ -51,6 +48,8 @@ Here are some ideas to get you started:
 ![Apple](https://img.shields.io/badge/Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=2b2d2d)
 
+---
+
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=2b2d2d)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d)
 ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-E37400.svg?logo=google-tag-manager&style=flat&color=2b2d2d)
@@ -62,12 +61,15 @@ Here are some ideas to get you started:
 
 
 <!--Cf.  https://simpleicons.org/
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=open-cv&style=flat&color=2b2d2d)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=2b2d2d)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=2b2d2d)
 ![Google](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=2b2d2d)
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=2b2d2d)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=2b2d2d)
 ![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=2b2d2d)
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=2b2d2d)
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=2b2d2d)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d)
