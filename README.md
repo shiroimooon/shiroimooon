@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d)
 ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-E37400.svg?logo=google-tag-manager&style=flat&color=2b2d2d)
 ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-E37400.svg?logo=google-search-console&style=flat&color=2b2d2d)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-.svg?logo=google-sheets&style=flat&color=2b2d2d)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=2b2d2d)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=2b2d2d)
 
 ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=2b2d2d)
