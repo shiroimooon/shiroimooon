@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58.svg?logo=google-sheets&style=flat&color=2b2d2d)
 
 
-<!--
+<!--Cf.  https://simpleicons.org/
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=2b2d2d)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=2b2d2d)
 ![Google](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=2b2d2d)
