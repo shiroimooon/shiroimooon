@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- 👞 VISIT -->
-![img](https://profile-counter.glitch.me/Githiru/count.svg)
-
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
 
