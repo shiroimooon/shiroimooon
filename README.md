@@ -66,7 +66,7 @@ https://simpleicons.org/
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=2b2d2d&logoColor=21759B)
 
 ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=2b2d2d&logoColor=66595C)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat&color=2b2d2d&logoColor=)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20lab-F37626.svg?logo=jupyter&style=flat&color=2b2d2d&logoColor=)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=2b2d2d&logoColor=)
 
 ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d&logoColor=)
@@ -99,6 +99,13 @@ https://simpleicons.org/
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=2b2d2d&logoColor=)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=2b2d2d&logoColor=)
+-->
+
+<!--
+|||
+|:-:|:-:|
+|IDE|![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=2b2d2d&logoColor=66595C) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat&color=2b2d2d&logoColor=) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=2b2d2d&logoColor=)|
+|OS|![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d&logoColor=) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=2b2d2d&logoColor=)|
 -->
 
 
