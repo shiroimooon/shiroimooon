@@ -13,17 +13,20 @@ Here are some ideas to get you started:
 -->
 
 <!-- 👞 VISIT -->
+![img](https://profile-counter.glitch.me/Githiru/count.svg)
+
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
 
 <!-- 📊 INFO GRAPHIC -->
+<!-- Cf.
+https://github.com/anuraghazra/github-readme-stats 
+-->
 ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
-![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
-
-
 
 <!-- 
+![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
 ![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 ![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 ![.tk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
@@ -33,6 +36,10 @@ Here are some ideas to get you started:
 
 
 <!-- 📛 BADGE -->
+<!-- Cf.
+https://shields.io/
+https://simpleicons.org/
+-->
 ### # Langege & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=2b2d2d&logoColor=3776AB)
