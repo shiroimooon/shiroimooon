@@ -15,12 +15,29 @@ Here are some ideas to get you started:
 <!-- 👞 VISIT -->
 <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
 
+
+<!-- 📊 INFO GRAPHIC -->
+![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide_border)
+![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
+
+
+
+<!-- 
+![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+![.tk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
+-->
+
+
 <!-- 📛 BADGE -->
-![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=2b2d2d)
+![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=2b2d2d&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=2b2d2d)
 ![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=2b2d2d)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=2b2d2d)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=2b2d2d)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=2b2d2d&logoColor=1572B6)
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=2b2d2d)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=2b2d2d)
@@ -78,13 +95,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- 📊 INFO GRAPHIC -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)-->
-![graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-![chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
-![chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-
-
+![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 
 <!--
 ２０２０：活動実績
