@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <!-- 📊 INFO GRAPHIC -->
-![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide_border)
-![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=onedark)
+![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
+![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <!-- 📛 BADGE -->
-### Langege & Tools
+### # Langege & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=2b2d2d&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=2b2d2d&logoColor=)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=2b2d2d&logoColor=)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=2b2d2d&logoColor=)
 
-### Digital Marketing
+### # Digital Marketing
 
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=2b2d2d&logoColor=)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d&logoColor=)
