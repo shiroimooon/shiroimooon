@@ -38,7 +38,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://shields.io/
 https://simpleicons.org/
 -->
-### # Langege & Tools
+### # Language & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=2b2d2d&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=2b2d2d&logoColor=)
