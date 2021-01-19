@@ -76,30 +76,41 @@ https://simpleicons.org/
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=2b2d2d&logoColor=4285F4)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=2b2d2d&logoColor=)
 ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=2b2d2d&logoColor=4285F4)
-![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-E37400.svg?logo=google-search-console&style=flat&color=2b2d2d&logoColor=)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=2b2d2d&logoColor=458CF5)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=2b2d2d&logoColor=)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=2b2d2d&logoColor=217346)
 
-❤️ ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=2b2d2d&logoColor=)
-
+❤️ 
+![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=2b2d2d&logoColor=)
+![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24.svg?logo=dark-reader&style=flat&color=2b2d2d&logoColor=141E24)
 
 <!--Cf.  https://simpleicons.org/
+--------------------------------------------------
+![](https://img.shields.io/badge/-.svg?logo=&style=flat&color=2b2d2d&logoColor=)
+--------------------------------------------------
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=2b2d2d&logoColor=)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=open-cv&style=flat&color=2b2d2d&logoColor=)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=2b2d2d&logoColor=5C3EE8)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d&logoColor=)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=2b2d2d&logoColor=)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=2b2d2d&logoColor=)
-![Google](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=2b2d2d&logoColor=)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=2b2d2d&logoColor=)
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=2b2d2d&logoColor=)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=2b2d2d&logoColor=)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=2b2d2d&logoColor=)
-![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=2b2d2d&logoColor=)
-![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=2b2d2d&logoColor=)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=2b2d2d&logoColor=)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=2b2d2d&logoColor=)
+![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=2b2d2d&logoColor=4285F4)
+![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=2b2d2d&logoColor=1DA1F2)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=2b2d2d&logoColor=)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=2b2d2d&logoColor=)
+![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=2b2d2d&logoColor=00AFF0)
+![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=2b2d2d&logoColor=4A154B)
+![Discord](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=flat&color=2b2d2d&logoColor=7289DA)
+![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=2b2d2d&logoColor=0079BF)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=2b2d2d&logoColor=2D8CFF)
+![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24.svg?logo=dark-reader&style=flat&color=2b2d2d&logoColor=141E24)
 -->
+
 
 <!--
 |||
