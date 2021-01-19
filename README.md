@@ -90,6 +90,7 @@ https://simpleicons.org/
 --------------------------------------------------
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=2b2d2d&logoColor=)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=2b2d2d&logoColor=5C3EE8)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=2b2d2d&logoColor=43B02A)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=2b2d2d&logoColor=)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=2b2d2d&logoColor=)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=2b2d2d&logoColor=)
