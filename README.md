@@ -103,7 +103,7 @@ https://simpleicons.org/
 > ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=696969&logoColor=563D7C)
 >
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=696969&logoColor=66595C)
-> ![JupyterLab](https://img.shields.io/badge/-JupyterLab%20lab-F37626.svg?logo=jupyter&style=flat&color=696969&logoColor=)<br>
+> ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=696969&logoColor=F37626)<br>
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=696969&logoColor=)
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=696969&logoColor=21759B)
 >
