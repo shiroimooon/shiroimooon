@@ -66,9 +66,10 @@ https://simpleicons.org/
 ![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24.svg?logo=dark-reader&style=flat&color=383c3c&logoColor=141E24)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=383c3c&logoColor=00A1E0)
+![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 ------------------------------------------------ -->
 
-### --- Skill Set ---
+### SKILL SETS
 > <!-- ----------------------------------------- -->
 > #### # Digital Marketing & Tools
 >
@@ -110,11 +111,8 @@ https://simpleicons.org/
 > ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=383c3c&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=383c3c&logoColor=)
 
-### --- I'm love it ---
-> ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 
-
-### --- Products ---
+### PRODUCTS
 
 |name|url|describe|language|launch|
 |-|-|-|-|-|
