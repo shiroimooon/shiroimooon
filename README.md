@@ -65,6 +65,7 @@ https://simpleicons.org/
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)
 ![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24.svg?logo=dark-reader&style=flat&color=383c3c&logoColor=141E24)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
+![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=383c3c&logoColor=00A1E0)
 ------------------------------------------------ -->
 
 ### --- Skill Set ---
@@ -77,7 +78,6 @@ https://simpleicons.org/
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)<br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
-> ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=383c3c&logoColor=00A1E0)
 >
 > <!-- ------------------------------------------ -->
 > #### # Programming Language & Tools
