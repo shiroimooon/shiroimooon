@@ -68,7 +68,9 @@ https://simpleicons.org/
 > ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
 > ![Salseforce](https://img.shields.io/badge/-Salseforce-00A1E0.svg?logo=salseforce&style=flat&color=383c3c&logoColor=00A1E0)
 > ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
+> ![PUBGm](https://www.pubg.com/wp-content/themes/pubg/dist/icons/icons-eae9d17b30.svg?logo=pubg%20mobaile&style=flat&color=383c3c&logoColor=fff)
 ------------------------------------------------ -->
+
 
 ### SKILL SETS
 > <!-- ----------------------------------------- -->
