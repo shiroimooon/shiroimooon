@@ -87,8 +87,7 @@ https://simpleicons.org/
 > 
 > + *organic search* : <br>- SEO対策(内部＋外部)、SXO(コンテンツマーケティング)
 > + *paid search* : <br>- PPC広告(GDN)、LPO対策、CRO対策
->
->
+
 > <!-- ------------------------------------------ -->
 > #### `# Programming Language & Tools`
 >
