@@ -74,7 +74,7 @@ https://simpleicons.org/
 
 ### SKILL SETS
 > <!-- ----------------------------------------- -->
-> #### # Digital Marketing & Tools
+> #### `# Digital Marketing & Tools` 
 >
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
@@ -83,10 +83,14 @@ https://simpleicons.org/
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6)
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
-> ( ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346) )
+> ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
+> 
+> + *organic search* : <br>- SEO対策（内部＋外部）、SXO（コンテンツマーケティング）
+> + *paid search* : <br>- PPC広告(GDN)、LPO対策、CRO対策
+>
 >
 > <!-- ------------------------------------------ -->
-> #### # Programming Language & Tools
+> #### `# Programming Language & Tools`
 >
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)<br>
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
