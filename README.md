@@ -92,12 +92,13 @@ https://simpleicons.org/
 
 <!-- ------------------------------------------ -->
 #### `# Programming Language & Tools`
+> <!-- Python -->
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=383c3c&logoColor=150458)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=383c3c&logoColor=)
-> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)
-> 
+> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)<br>
+> <!-- Web Develop -->
 > ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)
 > ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
@@ -105,14 +106,14 @@ https://simpleicons.org/
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=383c3c&logoColor=)
 > ![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=383c3c&logoColor=0769AD)
-> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=383c3c&logoColor=21759B)
-> 
+> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=383c3c&logoColor=21759B)<br> 
+> <!-- Middle wear -->
 > ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat&color=383c3c&logoColor=336791)
 > ![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&style=flat&color=383c3c&logoColor=003B57)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=383c3c&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=383c3c&logoColor=)
-> ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=383c3c&logoColor=563D7C)
-> 
+> ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=383c3c&logoColor=563D7C)<br>
+> <!-- Tools --> 
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=383c3c&logoColor=66595C)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=383c3c&logoColor=F37626)
 > ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=383c3c&logoColor=)
