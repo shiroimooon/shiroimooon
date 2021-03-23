@@ -29,6 +29,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
 ![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ------------------------------------------------ -->
+### INFO GRAPHIC
 
 ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
@@ -74,7 +75,7 @@ https://simpleicons.org/
 ------------------------------------------------ -->
 
 
-### SKILL SETS
+### SKILL-SETS BADGE
 <!-- ----------------------------------------- -->
 #### `# Digital Marketing & Tools` 
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
