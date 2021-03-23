@@ -121,8 +121,10 @@ https://simpleicons.org/
 
 
 ### CERTIFICATION
-+ Python 3 Data Analyst Certification
-+ 
+```
+• Google Analytics Individual Qualification
+• Python 3 Data Analyst Certification
+```
 
 <!--
 ２０２０：活動実績
