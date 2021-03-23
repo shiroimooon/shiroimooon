@@ -120,6 +120,10 @@ https://simpleicons.org/
 > |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
 
 
+### CERTIFICATION
++ Python 3 Data Analyst Certification
++ 
+
 <!--
 ２０２０：活動実績
 <img src="https://grass-graph.moshimo.works/images/GitHiru.png">
