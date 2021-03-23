@@ -118,10 +118,10 @@ https://simpleicons.org/
 
 ### PRODUCTS
 
-|name||describe|language|launch|
-|-|-|-|-|-|
-|💽  [djpj](https://djpj.herokuapp.com)||My Blog|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
-|🦥  [Clazy](https://clazy.herokuapp.com)||Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
+|name|describe|language|launch|
+|-|-|-|-|
+|💽  [djpj](https://djpj.herokuapp.com)|My Blog|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
+|🦥  [Clazy](https://clazy.herokuapp.com)|Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
 
 <!--
 ２０２０：活動実績
