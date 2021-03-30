@@ -87,7 +87,7 @@ https://simpleicons.org/
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
 > 
-> + *organic search* : <br>- SEO(内部＋外部)、SXO(コンテンツマーケティング)
+> + *organic search* : <br>- SEO(OnPage＋OffPage)、SXO(contents)
 > + *paid search* : <br>- PPC(GDN)、LPO、CRO
 
 <!-- ------------------------------------------ -->
