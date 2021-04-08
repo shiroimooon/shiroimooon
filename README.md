@@ -96,7 +96,6 @@ https://simpleicons.org/
 <!-- ------------------------------------------ -->
 #### `# Programming Language & Tools`
 > `# Data Science`<br>
->> 
 >> ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)
 >> ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
 >> ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=383c3c&logoColor=150458)
@@ -104,7 +103,6 @@ https://simpleicons.org/
 >> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)
 > 
 > `# Web application`<br>
->> 
 >> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)
 >> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
 >> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
