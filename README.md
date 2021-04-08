@@ -102,7 +102,7 @@ https://simpleicons.org/
 >> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=383c3c&logoColor=)
 >> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)
 > 
-> `# Web application`<br>
+> `# Web Application`<br>
 >> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)
 >> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
 >> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
