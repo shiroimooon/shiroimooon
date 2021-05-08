@@ -85,7 +85,7 @@ https://simpleicons.org/
 ------------------------------------------------ -->
 
 
-### SKILL-SETS BADGE
+### SKILL-SETS
 <!-- ----------------------------------------- -->
 #### `# Digital Marketing & Tools` 
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
@@ -127,8 +127,8 @@ https://simpleicons.org/
 > ![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&style=flat&color=383c3c&logoColor=003B57)
 -->
 
-
-|products name|describe|language|launch|
+#### `# Web Application` 
+|my_product|describe|language|launch|
 |-|-|-|-|
 |💽  [djpj](https://djpj.herokuapp.com) |Web Application|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
 |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
