@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <!-- 👞 VISIT -->
-<img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%>
+<!-- <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%> -->
 
 
 <!-- 📊 INFO GRAPHIC -->
