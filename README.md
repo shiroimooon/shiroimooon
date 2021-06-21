@@ -88,6 +88,7 @@ https://simpleicons.org/
 ### SKILL-SETS
 <!-- ----------------------------------------- -->
 #### `# Digital Marketing & Tools` 
+> SEM
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
@@ -96,9 +97,6 @@ https://simpleicons.org/
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
-> 
-> + *organic search* : <br>- SEO(OnPage＋OffPage)、SXO(contents)
-> + *paid search* : <br>- PPC(GDN)、LPO、CRO
 
 
 <!-- ------------------------------------------ --> 
@@ -115,23 +113,12 @@ https://simpleicons.org/
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=383c3c&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=383c3c&logoColor=)
 -->
-<!--
-#### `# Web Application` 
-> |products name|describe|language|launch|
-> |-|-|-|-|
-> |💽  [djpj](https://djpj.herokuapp.com) |Web Application|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
-> |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
-> 
-> ![Heroku](https://img.shields.io/badge/-Heroku-563D7C.svg?logo=heroku&style=flat&color=383c3c&logoColor=563D7C)
-> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat&color=383c3c&logoColor=336791)
-> ![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&style=flat&color=383c3c&logoColor=003B57)
--->
 
 #### `# Web Application` 
-|my_product|describe|language|launch|
-|-|-|-|-|
-|💽  [djpj](https://djpj.herokuapp.com) |Web Application|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
-|🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
+> |my_product|describe|language|launch|
+> |-|-|-|-|
+> |💽  [djpj](https://djpj.herokuapp.com) |Web blog|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
+> |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
 
 
 ### CERTIFICATION
