@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <!-- 📊 INFO GRAPHIC -->
 <!-- Cf. -------------------------------------------
-https://github.com/anuraghazra/github-readme-stats
+  https://github.com/anuraghazra/github-readme-stats
+
 ----------------------------------------------------
 ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
 ![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
@@ -36,12 +37,14 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 <!-- 📛 BADGE -->
-<!-- Cf.--------------------------------------------
-https://shields.io/
-https://simpleicons.org/
+<!-- Cf.----------------------------------------------
+  https://shields.io/
+  https://simpleicons.org/
+
 -- How to wright -------------------------------------
-![](https://img.shields.io/badge/-.svg?logo=&style=flat&color=383c3c&logoColor=)
-----------------------------------------------------
+  ![](https://img.shields.io/badge/-.svg?logo=&style=flat&color=383c3c&logoColor=)
+
+------------------------------------------------------
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 > ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)
 > ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)
@@ -85,10 +88,11 @@ https://simpleicons.org/
 ------------------------------------------------ -->
 
 
+<!-- ------------------------------------------ --> 
 ### SKILL-SETS
-<!-- ----------------------------------------- -->
+
 #### `# Digital Marketing & Tools` 
-> SEM
+> SEM <br>
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
@@ -99,7 +103,6 @@ https://simpleicons.org/
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
 
 
-<!-- ------------------------------------------ --> 
 <!--
 ####  `# Data Science & Tools`
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)
@@ -114,6 +117,7 @@ https://simpleicons.org/
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=383c3c&logoColor=)
 -->
 
+
 #### `# Web Application` 
 > |my_product|describe|language|launch|
 > |-|-|-|-|
@@ -121,13 +125,16 @@ https://simpleicons.org/
 > |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
 
 
+<!-- ------------------------------------------ --> 
 ### CERTIFICATION
+
 ```
 • Google Analytics Individual Qualification
 • Python 3 Data Analyst Certification
 ```
 
 
+<!-- ------------------------------------------ -->
 <!--
 ２０２０：活動実績
 <img src="https://grass-graph.moshimo.works/images/GitHiru.png">
