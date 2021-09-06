@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/-.svg?logo=&style=flat&color=383c3c&logoColor=)
 
 ------------------------------------------------------
+> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?logo=pytorch&style=flat&color=383c3c&logoColor=)
+> ![Google Chrome](https://img.shields.io/badge/-google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 > ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=383c3c&logoColor=5C3EE8)
 > ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=383c3c&logoColor=43B02A)
@@ -76,12 +78,12 @@ Here are some ideas to get you started:
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=383c3c&logoColor=)
-> ![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=383c3c&logoColor=0769AD)
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=383c3c&logoColor=21759B)
 > ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
 ------------------------------------------------ -->
+
 
 
 <!-- ------------------------------------------ --> 
@@ -127,7 +129,7 @@ Here are some ideas to get you started:
 ### | My Products
 |||
 |-|-|
-| 💽 [djpj](https://djpj.herokuapp.com) - Dec, 2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug, 2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)|
+| 💽 [djpj](https://djpj.herokuapp.com) - Dec, 2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=383c3c&logoColor=)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug, 2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)|
 
 
 
