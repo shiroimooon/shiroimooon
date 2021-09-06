@@ -87,7 +87,8 @@ Here are some ideas to get you started:
 <!-- ------------------------------------------ --> 
 ### | SKILL SETS
 
-#### `● Digital Marketing & Tools` (SEM) 
+> <p>● Digital Marketing & Tools (SEM)</p>
+>
 > ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=383c3c&logoColor=)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
@@ -99,7 +100,8 @@ Here are some ideas to get you started:
 
 
 
-####  `● Data Science & Tools`
+> <p>● Data Science & Tools</p>
+> 
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=383c3c&logoColor=150458)
