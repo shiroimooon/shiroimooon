@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 <!-- ------------------------------------------ --> 
-### - SKILL-SETS -
+### - SKILL SETS -
 
 #### `● Digital Marketing & Tools` (SEM) 
 > ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
