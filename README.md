@@ -46,12 +46,8 @@ Here are some ideas to get you started:
 
 ------------------------------------------------------
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
-> ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)
-> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)
 > ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=383c3c&logoColor=5C3EE8)
 > ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=383c3c&logoColor=43B02A)
-> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&color=383c3c&logoColor=)
-> ![Keras](https://img.shields.io/badge/-Keras-D00000.svg?logo=keras&style=flat&color=383c3c&logoColor=D00000)
 > ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=383c3c&logoColor=)
 > ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
 > ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=383c3c&logoColor=)
@@ -76,35 +72,34 @@ Here are some ideas to get you started:
 > ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=383c3c&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=383c3c&logoColor=)
-> ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=383c3c&logoColor=)
 > ![PUBGm](https://img.shields.io/badge/-PUBGm-F2A900.svg?logo=playerunknownsbattlegrounds&style=flat&color=383c3c&logoColor=F2A900)
-> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=383c3c&logoColor=)
 > ![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=383c3c&logoColor=0769AD)
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=383c3c&logoColor=21759B)
+> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
 ------------------------------------------------ -->
 
 
 <!-- ------------------------------------------ --> 
-### SKILL-SETS
+### - SKILL-SETS -
 
-#### `# Digital Marketing & Tools` 
-> SEM <br>
-> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
+#### `● Digital Marketing & Tools` (SEM) 
+> ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
+> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=383c3c&logoColor=)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
-> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=383c3c&logoColor=)<br>
-> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6)
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)
+> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
+> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6)<br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
 
 
-<!--
-####  `# Data Science & Tools`
+
+####  `● Data Science & Tools`
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=383c3c&logoColor=3776AB)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=383c3c&logoColor=150458)
@@ -112,26 +107,26 @@ Here are some ideas to get you started:
 > ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)<br>
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=383c3c&logoColor=66595C)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=383c3c&logoColor=F37626)
-> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=383c3c&logoColor=)<br>
+> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=383c3c&logoColor=)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=383c3c&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=383c3c&logoColor=)
--->
+> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=383c3c&logoColor=)
 
 
-#### `# Web Application` 
-> |my_product|describe|language|launch|
-> |-|-|-|-|
-> |💽  [djpj](https://djpj.herokuapp.com) |Web blog|![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)|Dec, 2020|
-> |🦥  [Clazy](https://clazy.herokuapp.com) |Web Application|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=)|Aug, 2019|
 
-
-<!-- ------------------------------------------ --> 
-### CERTIFICATION
+### - CERTIFICATION -
 
 ```
 • Google Analytics Individual Qualification
 • Python 3 Data Analyst Certification
 ```
+
+
+### - My Products - 
+|||
+|-|-|
+| 💽 [djpj](https://djpj.herokuapp.com) - Dec, 2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug, 2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=)|
+
 
 
 <!-- ------------------------------------------ -->
