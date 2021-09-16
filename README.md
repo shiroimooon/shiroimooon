@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
 ![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ------------------------------------------------ -->
-### || INFO GRAPHIC
+### || INFO GRAPHICS
 
 ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
@@ -117,14 +117,14 @@ Here are some ideas to get you started:
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=383c3c&logoColor=)
 
 
-### || CERTIFICATION
+### || CERTIFICATIONS
 ```
 • Google Analytics Individual Qualification
 • Python 3 Data Analyst Certification
 ```
 
 
-### || My Products
+### || MY PRODUCTS 
 | | |
 |-|-|
 | 💽 [djpj](https://djpj.herokuapp.com) - Dec,2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=383c3c&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=383c3c&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=383c3c&logoColor=430098)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug,2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=383c3c&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=383c3c&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=383c3c&logoColor=430098)|
