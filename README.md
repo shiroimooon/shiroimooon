@@ -89,16 +89,15 @@ Here are some ideas to get you started:
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=383c3c&logoColor=)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)
-> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
-> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6) <br>
-> ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
+> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6)
+> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4) <br>
+> ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
 > ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=383c3c&logoColor=00A1E0) <br>
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=383c3c&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=383c3c&logoColor=)
-> ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=383c3c&logoColor=0769AD)
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=383c3c&logoColor=21759B)
 
