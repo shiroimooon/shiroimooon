@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ------------------------------------------------ -->
 ### || INFO GRAPHICS
 
-> ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
+![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
 
 
 <!-- 📛 BADGE -->
