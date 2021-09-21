@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   https://github.com/anuraghazra/github-readme-stats
 
 ----------------------------------------------------
+![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
 ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
 ![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 ![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
@@ -31,9 +33,10 @@ Here are some ideas to get you started:
 ![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 ------------------------------------------------ -->
 ### || INFO GRAPHICS
+![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 
-![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
 
 
 <!-- 📛 BADGE -->
