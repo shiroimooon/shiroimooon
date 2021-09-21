@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 ### || CERTIFICATIONS
 ```
 • Google Analytics Individual Qualification
+• Python 3 Basic Grammar Certification
 • Python 3 Data Analyst Certification
 ```
 
