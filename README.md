@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ------------------------------------------------------
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 > ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=383c3c&logoColor=5C3EE8)
-> ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=383c3c&logoColor=43B02A)
 > ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=383c3c&logoColor=)
 > ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
 > ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=383c3c&logoColor=)
@@ -76,6 +75,8 @@ Here are some ideas to get you started:
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=383c3c&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=383c3c&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=383c3c&logoColor=0769AD)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4)
+> ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=) 
 ------------------------------------------------ -->
 
 ### || SKILL SETS
@@ -85,10 +86,8 @@ Here are some ideas to get you started:
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=383c3c&logoColor=)
 > ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=383c3c&logoColor=4285F4)
 > ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=383c3c&logoColor=458CF5)
-> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6) <br>
-> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=383c3c&logoColor=4285F4) 
-> ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=) <br>
+> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=383c3c&logoColor=B366F6)
+> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=383c3c&logoColor=4285F4)<br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=383c3c&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=383c3c&logoColor=217346)
 > ![javascript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&color=383c3c&logoColor=)
@@ -102,7 +101,8 @@ Here are some ideas to get you started:
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=383c3c&logoColor=013243)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=383c3c&logoColor=150458)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=383c3c&logoColor=)
-> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C) <br>
+> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=383c3c&logoColor=EE4C2C)
+> ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=383c3c&logoColor=43B02A) <br>
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=383c3c&logoColor=66595C)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=383c3c&logoColor=F37626)
 > ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=383c3c&logoColor=)
