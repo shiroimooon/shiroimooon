@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=)
 > ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C)
 > ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=eee&logoColor=43B02A) <br>
+> ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
 > ![Presto](https://img.shields.io/badge/-Presto-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=5890FF)
