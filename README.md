@@ -131,8 +131,9 @@ Here are some ideas to get you started:
 
 
 ### || MY PRODUCTS 
-| | |
-|-|-|
-| 💽 [djpj](https://djpj.herokuapp.com) - Dec,2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug,2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)|
+
+| <p>💽 [djpj](https://djpj.herokuapp.com) - Dec,2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug,2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🎩 Shizon-Blog- Nov,2017 launch</p> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) |
+|-|-|-|
+
 
 <!-- https://introduction361.herokuapp.com/ -->
