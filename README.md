@@ -93,12 +93,13 @@ Here are some ideas to get you started:
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eeeeee&logoColor=4285F4)<br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eeeeee&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eeeeee&logoColor=217346)
-> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)
-> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)<br>
+> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
+> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)<br>
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B)
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=)
+> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
 
 
 
@@ -109,17 +110,16 @@ Here are some ideas to get you started:
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=)
-> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C)
-> ![Selenium](https://img.shields.io/badge/-Selenium-43B02A.svg?logo=selenium&style=flat&color=eee&logoColor=43B02A) <br>
+> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C) <br>
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
-> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
+> ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
 > ![Presto](https://img.shields.io/badge/-Presto-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=5890FF)
-> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)<br>
+> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=) <br>
+> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
-> ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
 
 
 ### || CERTIFICATIONS
