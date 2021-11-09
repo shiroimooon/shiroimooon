@@ -13,31 +13,39 @@ Here are some ideas to get you started:
 -->
 
 
+
 <!-- 👞 VISIT -->
 <!-- <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%> -->
 
 
-<!-- 📊 INFO GRAPHIC -->
-<!-- Cf. -------------------------------------------
-  https://github.com/anuraghazra/github-readme-stats
-  https://github.com/vn7n24fzkq/github-profile-summary-cards
-  https://qiita.com/ryo-ma/items/c6298020098cb631f46e
 
------ e.g. ------------------------------------------
+
+<!-- 📊 INFO GRAPHIC -->
+<!--------------------------------------------------
+■ GitHub Profile Summary Cards
+  Cf. https://github.com/vn7n24fzkq/github-profile-summary-cards
+
+![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+![top_lang_repo](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+----------------------------------------------------
+■ GitHub Readme Stats
+  Cf.https://github.com/anuraghazra/github-readme-stats
+
 ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
-![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
-![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
-![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
 ![.tk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
-![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+----------------------------------------------------
+■ 
+  Cf. https://qiita.com/ryo-ma/items/c6298020098cb631f46e
+
+![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
 ------------------------------------------------ -->
 ### || INFO GRAPHICS
-![.tk's graph](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
-![.tk's chart1](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
-![.tk's chart2](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![top_lang_repo](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
 
 
 
@@ -86,23 +94,20 @@ Here are some ideas to get you started:
 > <p>● Digital Marketing & Tools (SEM)</p>
 >
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eeeeee&logoColor=)
-> ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4.svg?logo=google-tag-manager&style=flat&color=eeeeee&logoColor=4285F4)
-> ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5)<br>
+> ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eeeeee&logoColor=4285F4)
+> ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5) <br>
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eeeeee&logoColor=B366F6)
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=eeeeee&logoColor=4285F4)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eeeeee&logoColor=4285F4)<br>
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eeeeee&logoColor=4285F4) <br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eeeeee&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eeeeee&logoColor=217346)
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
-> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)<br>
+> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700) <br>
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B)
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
-
-
-
 
 > <p>● Data Science & Tools</p>
 > 
@@ -122,6 +127,8 @@ Here are some ideas to get you started:
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 
 
+
+
 ### || CERTIFICATIONS
 ```
 • Google Analytics Individual Qualification
@@ -134,6 +141,5 @@ Here are some ideas to get you started:
 
 | <p>💽 [djpj](https://djpj.herokuapp.com) - Dec,2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug,2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🎩 Shizon-Blog- Nov,2017 launch</p> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) |
 |-|-|-|
-
 
 <!-- https://introduction361.herokuapp.com/ -->
