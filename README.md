@@ -70,7 +70,7 @@
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5) <br>
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eee&logoColor=B366F6)
 > ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=eee&logoColor=4285F4)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4) <br>
+> ![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0) <br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346)
 > ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A) <br>
@@ -84,6 +84,7 @@
 > ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 > ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
 > ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
 > ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
 > ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
