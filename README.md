@@ -73,14 +73,14 @@
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eeeeee&logoColor=4285F4) <br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eeeeee&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eeeeee&logoColor=217346)
-> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
-> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700) <br>
+> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C) <br>
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B)
-> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
-> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=)
 > ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
 <!--[ stock ]-------------------------------------------------------------
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
+> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)
 > ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 > ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
 > ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
