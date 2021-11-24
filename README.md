@@ -103,11 +103,11 @@
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
 > ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
-> ![Presto](https://img.shields.io/badge/-Presto-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=5890FF)
-> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=) <br>
-> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
-> ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
+> ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=) <br>
+> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
+> ![Presto](https://img.shields.io/badge/-Presto-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=5890FF)
+> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 <!--[ stock ]-------------------------------------------------------------
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=tableau&style=flat&color=eee&logoColor=)
