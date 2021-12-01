@@ -39,7 +39,7 @@
 <!-- Cf.----------------------------------------------
   https://shields.io/
   https://simpleicons.org/
-
+  https://www.seil.jp/doc/index.html#tool/url-encode.html
 -- How to wright -------------------------------------
 
   ![{name}](https://img.shields.io/badge/-{name}-{color}.svg
@@ -63,53 +63,22 @@
 ------------------------------------------------ -->
 
 ### || SKILL SETS
-> <p>● Digital Marketing & Tools (SEM)</p>
->
-> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eee&logoColor=)
-> ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4)
-> ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5) <br>
-> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eee&logoColor=B366F6)
-> ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=eee&logoColor=4285F4)
-> ![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0) <br>
-> ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=)
-> ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346)
-> ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A) <br>
-> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
-> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eee&logoColor=FFD700)
-> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B)
-> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=563D7C)
-> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
-<!--[ stock ]-------------------------------------------------------------
-> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
-> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
-> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)
-> ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
-> ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
-> ![Google Chrome](https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
-> ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
-> ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
-> ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
-> ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
- --------------------------------------------------------------------- -->
+#### ● Data Science & Tools (2020~)
 
-> <p>● Data Science & Tools</p>
-> 
-> ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
-> ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243)
-> ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
-> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=)
-> ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C) <br>
-> ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
-> ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733)
-> ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
-> ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
-> ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=) <br>
-> ![Apple](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
-> ![Presto](https://img.shields.io/badge/-Presto-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=5890FF)
-> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
-> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
+|data-handling / ETL.ELT|
+|:-|
+|![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458) ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=) ![Presto (TrasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)|
+
+|ml / dl |
+|:-|
+|![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=) ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C)|
+
+|env / os/ vsc / tools |
+|:-|
+|![Macintosh(Apple)](https://img.shields.io/badge/-Macintosh%28Apple%29-000000.svg?logo=apple&style=flat&color=eee&logoColor=) ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000) ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626) ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=) ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=) ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
+
 <!--[ stock ]-------------------------------------------------------------
+> ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=tableau&style=flat&color=eee&logoColor=)
 > ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=eee&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
@@ -120,6 +89,34 @@
 > ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
  --------------------------------------------------------------------- -->
 
+
+#### ● Digital Marketing & Tools (2017~2020)
+
+|SEM|
+|:-|
+|![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eee&logoColor=) ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4) ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5) ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eee&logoColor=B366F6) ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4.svg?logo=google-ads&style=flat&color=eee&logoColor=4285F4)| 
+
+|Tools|
+|:-|
+|![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346) ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A) ![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0) ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)|
+
+|Web Develop|
+|:-|
+|![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eee&logoColor=FFD700) ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=563D7C) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)|
+
+<!--[ stock ]-------------------------------------------------------------
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
+> ![javascript](https://img.shields.io/badge/Javascript-FFD700.svg?logo=javascript&style=flat&color=eeeeee&logoColor=FFD700)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
+> ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
+> ![Google Chrome](https://img.shields.io/badge/-Googletchrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
+> ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=383c3c&logoColor=)
+> ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
+> ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
+> ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
+ --------------------------------------------------------------------- -->
 
 
 ### || CERTIFICATIONS
