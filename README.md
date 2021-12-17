@@ -62,6 +62,8 @@
 > ![PUBGm](https://img.shields.io/badge/-PUBGm-F2A900.svg?logo=playerunknownsbattlegrounds&style=flat&color=383c3c&logoColor=F2A900)
 ------------------------------------------------ -->
 
+<!-- img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/ -->
+
 ### || SKILL SETS
 <details>
  <summary><strong> Data Science & Tools (2020~) </strong> (click to expand)</summary>
