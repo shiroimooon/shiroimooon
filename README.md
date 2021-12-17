@@ -63,19 +63,23 @@
 ------------------------------------------------ -->
 
 ### || SKILL SETS
-#### ● Data Science & Tools (2020~)
+<details>
+ <summary><strong> Data Science & Tools (2020~) </strong> (click to expand)</summary>
+  
+  |data-handling|
+  |:-|
+  |![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458) ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=) ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)|
+  
+  
+  |ml / dl |
+  |:-|
+  |![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=) ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C)|
+  
+  
+  |Tools(env/os/vsc/ide) |
+  |:-|
+  |![Macintosh(Apple)](https://img.shields.io/badge/-Macintosh%28Apple%29-000000.svg?logo=apple&style=flat&color=eee&logoColor=) ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000) ![NeoVim](https://img.shields.io/badge/-NeoVim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626) ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=) ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=) ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 
-|data-handling / ETL.ELT|
-|:-|
-|![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243) ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458) ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=) ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)|
-
-|ml / dl |
-|:-|
-|![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=) ![PyTorch](https://img.shields.io/badge/-PyTorch-D00000.svg?logo=pytorch&style=flat&color=eee&logoColor=EE4C2C)|
-
-|Tools(env/os/vsc/ide) |
-|:-|
-|![Macintosh(Apple)](https://img.shields.io/badge/-Macintosh%28Apple%29-000000.svg?logo=apple&style=flat&color=eee&logoColor=) ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000) ![NeoVim](https://img.shields.io/badge/-NeoVim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626) ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=) ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=) ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 
 <!--[ stock ]-------------------------------------------------------------
 > ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
@@ -88,9 +92,11 @@
 > ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=383c3c&logoColor=)
 > ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
  --------------------------------------------------------------------- -->
+</details>
 
 
-#### ● Digital Marketing & Tools (2017~2020)
+<details>
+  <summary><strong> Digital Marketing & Tools (2017~2020) </strong> (click to expand)</summary>
 
 |SEM|
 |:-|
@@ -113,6 +119,7 @@
 > ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
 > ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
  --------------------------------------------------------------------- -->
+ </details>
 
 
 ### || CERTIFICATIONS
