@@ -40,7 +40,7 @@
 
 
 <details>
-<summary><strong> CERTIFICATIONS </strong> (click to expand)</summary>
+<summary><strong> CERTIFICATIONS/MYPRODUCTS </strong> (click to expand)</summary>
 
 * CERTIFICATIONS
 ```
