@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/header.png" alt="" width="100%"/>
+</div>
+
 <!-- 👞 VISIT -->
 <!-- <img src='https://profile-counter.glitch.me/Githiru/count.svg' alt='Visitor Count' width=20%> -->
 
@@ -139,3 +143,8 @@
 
 <!-- https://introduction361.herokuapp.com/ -->
 <!-- https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=sharing -->
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/footer.png" alt="" width="100%"/>
+</div>
+
