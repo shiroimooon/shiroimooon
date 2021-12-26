@@ -1,5 +1,5 @@
 <head align="center">
-    <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/header.png" alt="" width="100%"/>
+    <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/iceberg.jpg" alt="iceberg_header_image" width="100%"/>
 </head>
 
 <main align="center">
