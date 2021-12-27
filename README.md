@@ -59,9 +59,29 @@
 </details>
 </main>
 
-<!-- footer align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:wake-->
+
+
+<!--
+<footer align="center">
     <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/footer.png" alt="" width="100%"/>
-</footer -->
+</footer>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
