@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
 ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
+![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=eee&logoColor=000)
 
 
 <strong> ◆ Digital Marketing & Tools (2016~2020) </strong> <br>
