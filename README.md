@@ -5,8 +5,6 @@
 <main align="center">
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="top lang commit" align="right"/>
 
-<!-- ![graph](https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/0-profile-details.svg) -->
-
 <strong> ◆ Data Science & Tools (2020~) </strong> <br>
 ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
