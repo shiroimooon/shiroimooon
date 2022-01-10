@@ -15,11 +15,13 @@
 ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)
 ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=eee&logoColor=000)
 ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733)
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
+![AWS](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=eee&logoColor=FB7A24)
 ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 
 
@@ -33,11 +35,10 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A)
 ![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0)
 ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=eee&logoColor=)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=eee&logoColor=FFD700)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=563D7C)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
 
@@ -148,7 +149,6 @@
 ![Discord](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=flat&color=383c3c&logoColor=7289DA)
 ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)
-![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24.svg?logo=dark-reader&style=flat&color=383c3c&logoColor=141E24)
 ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 ![PUBGm](https://img.shields.io/badge/-PUBGm-F2A900.svg?logo=playerunknownsbattlegrounds&style=flat&color=383c3c&logoColor=F2A900)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
@@ -158,16 +158,14 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=383c3c&logoColor=)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=383c3c&logoColor=5C3EE8)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=383c3c&logoColor=)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat&color=383c3c&logoColor=)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&color=383c3c&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
 ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
 ![Google Chrome](https://img.shields.io/badge/-Googletchrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat&color=383c3c&logoColor=)
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C.svg?logo=apache-spark&style=flat&color=eee&logoColor=E25A1C)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=eee&logoColor=)
  --------------------------------------------------------------------- -->
 
 <!-- https://introduction361.herokuapp.com/ -->
