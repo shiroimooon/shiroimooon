@@ -19,6 +19,7 @@
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
 ![AWS](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=eee&logoColor=FB7A24)
 ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 
@@ -31,7 +32,6 @@
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A)
-![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0)
 ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
@@ -139,6 +139,7 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
+![Octopus Deploy](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0)
 ![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=)
