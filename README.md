@@ -69,6 +69,7 @@
     <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/footer.png" alt="" width="100%"/>
 </footer>
 -->
+https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari
 
 
 
