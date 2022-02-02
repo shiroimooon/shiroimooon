@@ -5,6 +5,14 @@
 <main align="center">
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="top lang commit" align="right"/>
 
+![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=)
+![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)
+![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)
+![Discord](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=flat&color=383c3c&logoColor=7289DA)
+![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
+
 <details>
 <summary>
     <span style="border-bottom: solid 1px blue;">Data Science & Tools (2020~)</spqn> 
@@ -15,6 +23,7 @@
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=) 
 > ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
 > ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)
+> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=eee&logoColor=)
 > ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=eee&logoColor=000)
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
