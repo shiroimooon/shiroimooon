@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=)
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)
 ![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)
-![Discord](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=flat&color=383c3c&logoColor=7289DA)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)
 ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
 
 <details>
