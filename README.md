@@ -69,12 +69,15 @@
 • Python 3 Data Analyst Certification #2021
 ```
 
+    
 * MY-PRODUCTS
 
-| <p>💽 [djpj](https://djpj.herokuapp.com) - Dec,2020 launch </p> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🦥 [Clazy](https://clazy.herokuapp.com) -Aug,2019 launch</p>![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098)| <p>🎩 [Shizon-Blog]()- Nov,2017 launch</p> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) |
+| <p>💽 [djpj](https://djpj.herokuapp.com)</p> <hr> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098) <br> (Weblog) <br>  - Dec,2020 launch - | <p>🦥 [Clazy](https://clazy.herokuapp.com)</p>  <hr> ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098) <br> (Web Application) <br> - Aug,2019 launch - | <p>🎩 [Shizon-Blog]()</p> <hr> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) <br>(Weblog)<br> - Nov,2017 launch - |
 |-|-|-|
 
-    
+    ※Clazy - ID:clazykun@gmail.com Pw:123456
+
+
 * DS-Skill
  
 [<img src="https://user-images.githubusercontent.com/28585421/152119352-68256eb8-79d9-4faf-a3c5-3a15786027f9.png" width="60%"/>](https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari)<br>
