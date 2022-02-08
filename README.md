@@ -1,9 +1,9 @@
 <head align="center">
-    <img src="https://raw.githubusercontent.com/GitHiru/GitHiru/master/assets/img/iceberg.png" alt="iceberg_header_image" width="100%"/>
+    <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" alt="iceberg_header_image" width="100%"/>
 </head>
 
 <main align="center">
-<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="top lang commit" align="right"/>
+<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
 ![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)
@@ -128,7 +128,7 @@
 
 ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
-![.tk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
 ----------------------------------------------------
