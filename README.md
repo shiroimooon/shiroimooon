@@ -39,7 +39,7 @@
     <span style="border-bottom: solid 1px blue;">Digital Marketer(SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
 </summary>
 
-> ![Google Chrome](https://img.shields.io/badge/-Googletchrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
+> ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4)
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eee&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5)
