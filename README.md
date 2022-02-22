@@ -36,7 +36,7 @@
 
 <details>
 <summary>
-    <span style="border-bottom: solid 1px blue;">Digital Marketer(SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
+    <span style="border-bottom: solid 1px blue;">Digital Marketer (SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
 </summary>
 
 > ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
