@@ -15,7 +15,7 @@
 
 <details>
 <summary>
-    <span style="border-bottom: solid 1px blue;">Data Science & Tools (2020~)</spqn> 
+    <span style="border-bottom: solid 1px blue;">Data Analysis Engineer & Tools (2020~)</spqn> 
 </summary>
     
 > ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
@@ -39,7 +39,7 @@
 
 <details>
 <summary>
-    <span style="border-bottom: solid 1px blue;">Digital Marketing & Tools (2016~2020) </spqn> 
+    <span style="border-bottom: solid 1px blue;">Digital Marketer(SEM) & Tools (2016~2020) </spqn> 
 </summary>
 
 > ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4)
