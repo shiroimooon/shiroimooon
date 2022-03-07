@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=181717)](https://github.com/polar-beer)
-[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)]()
+[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)]()
 [![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)]()
 [![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)]()
