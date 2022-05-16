@@ -7,11 +7,14 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=181717)](https://github.com/polar-beer)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)](#)
+<!-- 
 [![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)]()
 [![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)]()
 [![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)]()
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=flat&color=383c3c&logoColor=EA4335)]()
-    
+-->
+
 <details>
 <summary>
     <span style="border-bottom: solid 1px blue;">Data Analysis Engineer & Tools (Oct.2020~)</spqn> 
@@ -38,10 +41,10 @@
     <span style="border-bottom: solid 1px blue;">Digital Marketer (SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
 </summary>
 
-> ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4)
 > ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eee&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eee&logoColor=B366F6)
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346)
@@ -78,7 +81,6 @@
 * Definition_Document @ DS
  
 [<img src="https://user-images.githubusercontent.com/28585421/152119352-68256eb8-79d9-4faf-a3c5-3a15786027f9.png" width="60%"/>](https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari)<br>
-🔗https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari
 
 </details>
 </main>
@@ -151,21 +153,13 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
-![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)
+> ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
+> ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
 > ![AWS](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=eee&logoColor=FB7A24)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
-![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=)
-![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)
-![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)
-![Discord](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=flat&color=383c3c&logoColor=7289DA)
-![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
-![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)
 ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 ![PUBGm](https://img.shields.io/badge/-PUBGm-F2A900.svg?logo=playerunknownsbattlegrounds&style=flat&color=383c3c&logoColor=F2A900)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
@@ -173,8 +167,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=383c3c&logoColor=)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
-![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
-![Google Chrome](https://img.shields.io/badge/-Googletchrome-4285F4.svg?logo=google-chrome&style=flat&color=383c3c&logoColor=)
 ![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C.svg?logo=apache-spark&style=flat&color=eee&logoColor=E25A1C)
@@ -182,4 +174,3 @@
  --------------------------------------------------------------------- -->
 
 <!-- https://introduction361.herokuapp.com/ -->
-<!-- https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=sharing -->
