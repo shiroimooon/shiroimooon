@@ -3,7 +3,7 @@
 </head>
 
 <main align="center">
-<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="top lang commit" align="right"/>
+<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://github.com/polar-beer)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
@@ -41,29 +41,30 @@
     <span style="border-bottom: solid 1px blue;">Digital Marketer (SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
 </summary>
 
-> ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=eee&logoColor=4285F4)
-> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=eee&logoColor=)
-> ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=eee&logoColor=458CF5)
-> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=eee&logoColor=4285F4)
-> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=eee&logoColor=B366F6)
-> ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=eee&logoColor=)
-> ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=eee&logoColor=217346)
-> ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=eee&logoColor=B7472A)
-> ![Octopus](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=eee&logoColor=2F93E0)
+> ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=FFFAFA&logoColor=4285F4)
+> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=FFFAFA&logoColor=)
+> ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=FFFAFA&logoColor=458CF5)
+> ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=FFFAFA&logoColor=4285F4)
+> ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=FFFAFA&logoColor=B366F6)
+> ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=FFFAFA&logoColor=)
+> ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=FFFAFA&logoColor=217346)
+> ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=FFFAFA&logoColor=B7472A)
+> ![Octopus](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=FFFAFA&logoColor=2F93E0)
 
-> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=eee&logoColor=66595C)
-> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eee&logoColor=21759B)
-> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=eee&logoColor=)
-> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=eee&logoColor=FFD700)
-> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=563D7C)
-> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
+> ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=FFFAFA&logoColor=66595C)
+> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=FFFAFA&logoColor=21759B)
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=FFFAFA&logoColor=)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=FFFAFA&logoColor=1572B6)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=FFFAFA&logoColor=FFD700)
+> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=FFFAFA&logoColor=563D7C)
+> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=FFFAFA&logoColor=0769AD)
 </details>
 
 <details>
 <summary> CERTIFICATIONS / PRODUCTS / DD </summary>
 
 * MY_CERTIFICATIONS
+
 ```
 • Google Analytics Individual Qualification #2017 #2018
 • Python 3 Basic Grammar Certification #2020
@@ -78,6 +79,9 @@
 
     ※Clazy - ID:clazykun@gmail.com Pw:123456
 
+* COMITGRAPH
+
+![profile-summary-card-output](https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
 * Definition_Document @ DS
  
