@@ -5,14 +5,14 @@
 <main align="center">
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=383c3c&logoColor=181717)](https://github.com/polar-beer)
-[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=383c3c&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=383c3c&logoColor=)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://github.com/polar-beer)
+[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BEFF)](#)
 <!-- 
-[![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=383c3c&logoColor=00AFF0)]()
-[![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=383c3c&logoColor=4A154B)]()
-[![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=383c3c&logoColor=2D8CFF)]()
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=flat&color=383c3c&logoColor=EA4335)]()
+[![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
+[![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=D9E5FF&logoColor=4A154B)]()
+[![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=D9E5FF&logoColor=2D8CFF)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=flat&color=D9E5FF&logoColor=EA4335)]()
 -->
 
 <details>
@@ -20,20 +20,20 @@
     <span style="border-bottom: solid 1px blue;">Data Analysis Engineer & Tools (Oct.2020~)</spqn> 
 </summary>
     
-> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
-> ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=eee&logoColor=150458)
-> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=eee&logoColor=)
-> ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=eee&logoColor=013243)
-> ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=eee&logoColor=3F4F75)
-> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=eee&logoColor=) 
-> ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=eee&logoColor=000)
-> ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=eee&logoColor=)
-> ![iTerm2](https://img.shields.io/badge/-iTerm2-000000.svg?logo=iterm2&style=flat&color=eee&logoColor=000000)
-> ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=eee&logoColor=019733)
-> ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=eee&logoColor=F37626)
-> ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=eee&logoColor=)
-> ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=eee&logoColor=)
-> ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=eee&logoColor=)
+> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
+> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
+> ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=FFFAFA&logoColor=013243)
+> ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=FFFAFA&logoColor=3F4F75)
+> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=FFFAFA&logoColor=) 
+> ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=FFFAFA&logoColor=000)
+> ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=FFFAFA&logoColor=000000)
+> ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=FFFAFA&logoColor=000)
+> ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=FFFAFA&logoColor=019733)
+> ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=FFFAFA&logoColor=F37626)
+> ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=FFFAFA&logoColor=)
+> ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=FFFAFA&logoColor=)
+> ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
 </details>
 
 <details>
@@ -57,6 +57,7 @@
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=eee&logoColor=1572B6)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=eee&logoColor=FFD700)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=eee&logoColor=563D7C)
+> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
 </details>
 
 <details>
@@ -159,7 +160,6 @@
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
 > ![AWS](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=eee&logoColor=FB7A24)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=eee&logoColor=0769AD)
 ![McDonald's](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=383c3c&logoColor=)
 ![PUBGm](https://img.shields.io/badge/-PUBGm-F2A900.svg?logo=playerunknownsbattlegrounds&style=flat&color=383c3c&logoColor=F2A900)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=eee&logoColor=3776AB)
