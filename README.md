@@ -158,6 +158,7 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
+> ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=eee&logoColor=4285F4)
 > ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
