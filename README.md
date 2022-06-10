@@ -19,9 +19,11 @@
 <summary>
     <span style="border-bottom: solid 1px blue;">Data Analysis Engineer & Tools (Oct.2020~)</spqn> 
 </summary>
-    
-> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
+
+> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Presto](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
 > ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=FFFAFA&logoColor=013243)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=FFFAFA&logoColor=3F4F75)
@@ -29,11 +31,11 @@
 > ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=FFFAFA&logoColor=000)
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=FFFAFA&logoColor=000000)
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=FFFAFA&logoColor=000)
-> ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&color=FFFAFA&logoColor=019733)
+> ![Neovim](https://img.shields.io/badge/-Neovim-019733.svg?logo=vim&style=flat&color=FFFAFA&logoColor=019733)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=FFFAFA&logoColor=F37626)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=FFFAFA&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=FFFAFA&logoColor=)
-> ![GCP](https://img.shields.io/badge/-GCP-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+
 </details>
 
 <details>
@@ -42,7 +44,7 @@
 </summary>
 
 > ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=FFFAFA&logoColor=4285F4)
-> ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&style=flat&color=FFFAFA&logoColor=)
+> ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=FFFAFA&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=FFFAFA&logoColor=458CF5)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=FFFAFA&logoColor=4285F4)
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=FFFAFA&logoColor=B366F6)
@@ -158,6 +160,7 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
+> ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
 > ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=eee&logoColor=4285F4)
 > ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
