@@ -21,10 +21,10 @@
 </summary>
 
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Google BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=eee&logoColor=4285F4)
 > ![Presto](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
-> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=FFFAFA&logoColor=013243)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=FFFAFA&logoColor=3F4F75)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=FFFAFA&logoColor=) 
@@ -160,8 +160,8 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
+> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
 > ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
-> ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=eee&logoColor=4285F4)
 > ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
