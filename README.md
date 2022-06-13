@@ -22,8 +22,8 @@
 </summary>
 
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![Google BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
+> ![Google BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=FFFAFA&logoColor=1C69F0)
+> ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=FFFAFA&logoColor=1C69F0)
 > ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=FFFAFA&logoColor=4285F4)
 > ![Presto](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=FFFAFA&logoColor=013243)
@@ -37,6 +37,13 @@
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=FFFAFA&logoColor=)
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=FFFAFA&logoColor=000000)
 
+<!--
+> ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=FFFAFA&logoColor=)
+> ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F37626.svg?logo=google-colab&style=flat&color=FFFAFA&logoColor=F9AB00)
+> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
+> ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=FFFAFA&logoColor=)
+> ![Keras](https://img.shields.io/badge/-Keras-D00.svg?logo=keras&style=flat&color=FFFAFA&logoColor=)
+-->
 </details>
 
 <details>
@@ -161,11 +168,7 @@
             &logoColor={color})
 
 ----- e.g. ------------------------------------------
-> ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=FFFAFA&logoColor=)
-> ![Presto (TreasureData)](https://img.shields.io/badge/-Presto%20%28TresureData%29-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
-> ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=eee&logoColor=)
 > ![trello](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=383c3c&logoColor=0079BF)
-> ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=eee&logoColor=)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=eee&logoColor=)
 > ![AWS](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=eee&logoColor=FB7A24)
 > ![Pandas](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=eee&logoColor=150458)
@@ -176,8 +179,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=383c3c&logoColor=)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&logoColor=)
 ![Salseforce](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=eeeeee&logoColor=00A1E0)
-![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&color=383c3c&logoColor=)
-![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&color=383c3c&logoColor=)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C.svg?logo=apache-spark&style=flat&color=eee&logoColor=E25A1C)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=eee&logoColor=)
  --------------------------------------------------------------------- -->
