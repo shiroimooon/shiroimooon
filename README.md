@@ -60,7 +60,6 @@
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=FFFAFA&logoColor=217346)
 > ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=FFFAFA&logoColor=B7472A)
 > ![Octopus](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=FFFAFA&logoColor=2F93E0)
-
 > ![Atom](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=FFFAFA&logoColor=66595C)
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=FFFAFA&logoColor=21759B)
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=FFFAFA&logoColor=)
