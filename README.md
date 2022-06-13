@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://github.com/polar-beer)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BEFF)](#)
+
 <!-- 
 [![Skype](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
 [![slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=D9E5FF&logoColor=4A154B)]()
@@ -23,18 +24,18 @@
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
 > ![Google BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
 > ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=google-cloud&style=flat&color=FFFAFA&logoColor=)
-> ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=eee&logoColor=4285F4)
+> ![Google Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=FFFAFA&logoColor=4285F4)
 > ![Presto](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=FFFAFA&logoColor=150458)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=FFFAFA&logoColor=013243)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=FFFAFA&logoColor=3F4F75)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=FFFAFA&logoColor=) 
 > ![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=FFFAFA&logoColor=000)
-> ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=FFFAFA&logoColor=000000)
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=FFFAFA&logoColor=000)
-> ![Neovim](https://img.shields.io/badge/-Neovim-019733.svg?logo=vim&style=flat&color=FFFAFA&logoColor=019733)
+> ![Neovim](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=FFFAFA&logoColor=57A143)
 > ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=FFFAFA&logoColor=F37626)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=FFFAFA&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=FFFAFA&logoColor=)
+> ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=FFFAFA&logoColor=000000)
 
 </details>
 
