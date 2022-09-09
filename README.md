@@ -161,9 +161,11 @@
 
 ![profile-summary-card-output](https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
+<!--
 * Definition_Document @ DS
  
 [<img src="https://user-images.githubusercontent.com/28585421/152119352-68256eb8-79d9-4faf-a3c5-3a15786027f9.png" width="60%"/>](https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari)<br>
+--> 
 
 </details>
 </main>
