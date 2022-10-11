@@ -1,4 +1,4 @@
-<!-- --------------------------------------------------------------------------------------------------------
+<!-- ----------------------------------------------------
  |【📊 INFO GRAPHIC　】
  | ■ GitHub Profile Summary Cards
  |    (cf.) https://github.com/vn7n24fzkq/github-profile-summary-cards
@@ -7,7 +7,7 @@
  | ![top_lang_repo  ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
  | ![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
  |  
- | --------------------------------------------------------------------------------------------------------
+ | ----------------------------------------------------
  | ■ GitHub Readme Stats
  |    (cf.) https://github.com/anuraghazra/github-readme-stats
  | 
@@ -17,20 +17,20 @@
  | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
  | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
  |  
- | --------------------------------------------------------------------------------------------------------
+ | ----------------------------------------------------
  | ■ 
  |    (cf.) https://qiita.com/ryo-ma/items/c6298020098cb631f46e
  | 
  | ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
  |  
- | --------------------------------------------------------------------------------------------------------
+ | ----------------------------------------------------
  | 
  |【📛 BADGE　】
  |    (cf.)　https://shields.io/
  |    (cf.)　https://simpleicons.org/
  |    (cf.)　https://www.seil.jp/doc/index.html#tool/url-encode.html
  | 
- | -- How to wright ---------------------------------------------------------------------------------------
+ | -- How to wright -----------------------------------
  | 
  |   ![{name}](https://img.shields.io/badge/-{name}-{color}.svg
  |             ?logo={name}
@@ -38,7 +38,7 @@
  |             &color={background-color}
  |             &logoColor={color})
  | 
- | --------------------------------------------------------------------------------------------------- -->
+ | ---------------------------------------------------- -->
 
 <!-- img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/ -->
 <!-- https://introduction361.herokuapp.com/ -->
@@ -56,13 +56,13 @@
 [![GitHub ](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://github.com/polar-beer)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle ](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](#)
-![PUBGm   ](https://img.shields.io/badge/-PUBGm-FEAB02.svg?logo=pubg&style=flat&color=D9E5FF&logoColor=FEAB02)
 
 <!-- 
 [![Skype  ](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
 [![slack  ](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=D9E5FF&logoColor=4A154B)]()
 [![Zoom   ](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=D9E5FF&logoColor=2D8CFF)]()
 [![Gmail  ](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=flat&color=D9E5FF&logoColor=EA4335)]()
+![PUBGm   ](https://img.shields.io/badge/-PUBGm-FEAB02.svg?logo=pubg&style=flat&color=D9E5FF&logoColor=FEAB02)
 -->
 
 
