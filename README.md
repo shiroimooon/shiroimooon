@@ -67,9 +67,11 @@
 -->
 
 
+## 🧊 MyCareer
+#### ❄ Data Analysis Engineer (Oct.2020~)
 <details>
 <summary>
-    <span style="border-bottom: solid 1px blue;">❄Data Analysis Engineer & Tools (Oct.2020~)</spqn> 
+    <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
 </summary>
 
 > ![Google Cloud      ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
@@ -107,9 +109,10 @@
 </details>
 
 
+#### ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) 
 <details>
 <summary>
-    <span style="border-bottom: solid 1px blue;">❄Digital Marketer (SEM) & Tools (Apr.2016 ~ Sep.2020) </spqn> 
+    <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
 </summary>
 
 > ![Google TagManager   ](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=F0F8FF&logoColor=4285F4)
@@ -138,9 +141,10 @@
 </details>
 
 
+## 🧊 OtherDetail
 <details>
 <summary>
-    <span>❄CERTIFICATIONS / PRODUCTS / DD </span>
+    <span> ❄ CERTIFICATIONS / PRODUCTS / ...etc. </span>
 </summary>
 
 * MY_CERTIFICATIONS
