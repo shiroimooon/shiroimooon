@@ -78,7 +78,7 @@
 > ![Google Cloud      ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
 > ![Google BigQuery   ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
+> ![Google Colab      ](https://img.shields.io/badge/-Google%20Colab-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00)
 > ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
@@ -93,8 +93,8 @@
 > ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 
 <!--
+> ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
-> ![Google Colab      ](https://img.shields.io/badge/-Google%20Colab-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00)
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Anaconda          ](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
 > ![Keras             ](https://img.shields.io/badge/-Keras-D00.svg?logo=keras&style=flat&color=F0F8FF&logoColor=)
