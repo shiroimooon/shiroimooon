@@ -69,12 +69,12 @@
 
 
 ## 🧊 MyCareer
-#### ❄ Data Analysis Engineer (Oct.2020~)
-<details>
-<summary>
-    <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
-</summary>
-
+> #### ❄ Data Analysis Engineer (Oct.2020~)
+> <details>
+> <summary>
+>     <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
+> </summary>
+> 
 > ![Google Cloud      ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
 > ![Google BigQuery   ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
@@ -91,8 +91,9 @@
 > ![Git               ](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
 > ![Docker            ](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
 > ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
-
-<!--
+> 
+> 
+<!-- STOCK --
 > ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
@@ -107,15 +108,15 @@
 > ![Raspberry Pi      ](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&color=D9E5FF&logoColor=)
 > ![Apache Spark      ](https://img.shields.io/badge/-Apache%20Spark-E25A1C.svg?logo=apache-spark&style=flat&color=D9E5FF&logoColor=E25A1C)
 -->
-</details>
-
-
-#### ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) 
-<details>
-<summary>
-    <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
-</summary>
-
+> </details>
+> 
+> 
+> #### ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) 
+> <details>
+> <summary>
+>     <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
+> </summary>
+>
 > ![Google TagManager   ](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
@@ -132,14 +133,15 @@
 > ![JavaScript          ](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=F0F8FF&logoColor=FFD700)
 > ![Bootstrap           ](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)
 > ![jQuery              ](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=F0F8FF&logoColor=0769AD)
-
-<!--
+> 
+<!-- STOCK -- 
 > ![Salseforce          ](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=F0F8FF&logoColor=00A1E0)
 > ![XAMPP               ](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=F0F8FF&logoColor=)
 > ![trello              ](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=F0F8FF&logoColor=0079BF)
 > ![McDonald's          ](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=F0F8FF&logoColor=)
 -->
-</details>
+> </details>
+
 
 
 ## 🧊 OtherDetail
