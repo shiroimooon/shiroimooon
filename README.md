@@ -75,23 +75,23 @@
 >     <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
 > </summary>
 > 
-> ![Google Cloud      ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
-> , ![Google BigQuery   ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> （![Google BigQuery ML](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)）
-> , ![Google Colab      ](https://img.shields.io/badge/-Google%20Colab-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00)
-> , ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)<br>
-> , ![Python            ](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)
-> （![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
+> ![Google Cloud       ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
+> ![Google BigQuery    ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Google BigQuery ML ](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
+> ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
+> ![Python            ](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)
+> ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
-> ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=) ）
-> , ![Markdown          ](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)<br>
-> , ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
-> , ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
-> （![Neovim            ](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
+> ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
+> ![Markdown          ](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)
+> ![VisualStudioCode. ](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
+> ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
+> ![Neovim            ](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
 > ![JupyterLab        ](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
 > ![Git               ](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
-> ![Docker            ](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=))<br>
-> , ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
+> ![Docker            ](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
+> ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > 
 > 
 <!-- STOCK --
@@ -118,21 +118,21 @@
 > </summary>
 >
 > ![Google TagManager   ](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=F0F8FF&logoColor=4285F4)
-> , ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
-> , ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
-> , ![Google AdSense      ](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=F0F8FF&logoColor=4285F4)
-> , ![Google Optimize     ](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=F0F8FF&logoColor=B366F6)<br>
-> , ![Google Sheets       ](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=)
-> , ![Microsoft Excel     ](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=F0F8FF&logoColor=217346)
-> , ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=F0F8FF&logoColor=B7472A)
-> , ![Octopus             ](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=F0F8FF&logoColor=2F93E0)<br>
-> , ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
-> , ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
-> , ![HTML5               ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=F0F8FF&logoColor=)
-> , ![CSS3                ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=F0F8FF&logoColor=1572B6)
-> （![Bootstrap           ](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)）
-> , ![JavaScript          ](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=F0F8FF&logoColor=FFD700)
-> （![jQuery              ](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=F0F8FF&logoColor=0769AD)）
+> ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
+> ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
+> ![Google AdSense      ](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=F0F8FF&logoColor=4285F4)
+> ![Google Optimize     ](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=F0F8FF&logoColor=B366F6)
+> ![Google Sheets       ](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=)
+> ![Microsoft Excel     ](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=F0F8FF&logoColor=217346)
+> ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=F0F8FF&logoColor=B7472A)
+> ![Octopus             ](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=F0F8FF&logoColor=2F93E0)
+> ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
+> ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
+> ![HTML5               ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=F0F8FF&logoColor=)
+> ![CSS3                ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=F0F8FF&logoColor=1572B6)
+> ![Bootstrap           ](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)
+> ![JavaScript          ](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=F0F8FF&logoColor=FFD700)
+> ![jQuery              ](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=F0F8FF&logoColor=0769AD)
 > 
 <!-- STOCK -- 
 > ![Salseforce          ](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=F0F8FF&logoColor=00A1E0)
