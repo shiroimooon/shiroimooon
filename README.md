@@ -73,13 +73,14 @@
 > - Cloud : <br>
 > ![Google Cloud       ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
 > - DWH : <br>
-> ![Google BigQuery    ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
+> ![Google BigQuery    ](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Presto            ](https://img.shields.io/badge/-Presto%20(Treasure Data)-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - Visualizar & Dashboard : <br>
+> ![Google Looker     ](https://img.shields.io/badge/-Google%20Dataportal-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - ML : <br>
-> ![Google BigQuery ML ](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Google BigQuery ML ](https://img.shields.io/badge/-Google%20BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
 > - IDE : <br>
