@@ -74,7 +74,7 @@
 > ![Google Cloud       ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
 > - DWH : <br>
 > ![Google BigQuery    ](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> ![Presto            ](https://img.shields.io/badge/-Presto%20(Treasure Data)-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
+> ![Presto            ](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - Visualizar & Dashboard : <br>
 > ![Google Looker     ](https://img.shields.io/badge/-Google%20Dataportal-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
@@ -140,14 +140,6 @@
 > ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
 > - IDE : <br>
 > ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
-> 
->
-<!-- STOCK -- 
-> ![Salseforce          ](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=F0F8FF&logoColor=00A1E0)
-> ![XAMPP               ](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=F0F8FF&logoColor=)
-> ![trello              ](https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat&color=F0F8FF&logoColor=0079BF)
-> ![McDonald's          ](https://img.shields.io/badge/-McDonald's-FBC817.svg?logo=mcdonald's&style=flat&color=F0F8FF&logoColor=)
--->
 > </details>
 
 
