@@ -57,8 +57,8 @@
 > ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu            ](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
 > </details>
-> 
-> 
+
+
 > <details>
 > <summary>
 >     <span style="border-bottom: solid 1px blue;"> ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) </spqn> 
