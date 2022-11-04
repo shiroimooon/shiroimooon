@@ -57,7 +57,6 @@
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
 [![Twiiter.](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle  ](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
-[![Udemy   ](https://img.shields.io/badge/-Udemy-A435F0.svg?logo=udemy&style=flat&color=D9E5FF&logoColor=A435F0)](https://www.udemy.com/user/ht-169)
 
 <!-- STOCK -- 
 [![Skype  ](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
