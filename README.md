@@ -40,10 +40,6 @@
  | 
  | ---------------------------------------------------- -->
 
-<!-- img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/ -->
-<!-- https://introduction361.herokuapp.com/ -->
-
-
 
 <head align="center">
     <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" alt="iceberg_header_image" width="100%"/>
@@ -71,10 +67,12 @@
 > #### ❄ Data Analysis Engineer (Oct.2020~)
 > <details>
 > <summary>
->     <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
+>     <span style="border-bottom: solid 1px blue;"> </spqn> 
 > </summary>
 > 
+> -  
 > ![Google Cloud       ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
+> - DWH 
 > ![Google BigQuery    ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Google BigQuery ML ](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
@@ -83,6 +81,7 @@
 > ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
+> ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Markdown          ](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)
 > ![VisualStudioCode. ](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 > ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
@@ -94,14 +93,8 @@
 > 
 > 
 <!-- STOCK --
-> ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
-> ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/dataset)
-> ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/notebook)
-> ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/discussion)
->
 > ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
-> ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Anaconda          ](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
 > ![Keras             ](https://img.shields.io/badge/-Keras-D00.svg?logo=keras&style=flat&color=F0F8FF&logoColor=)
 > ![Ubuntu            ](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=D9E5FF&logoColor=)
@@ -118,25 +111,30 @@
 > #### ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) 
 > <details>
 > <summary>
->     <span style="border-bottom: solid 1px blue;"> Tools </spqn> 
+>     <span style="border-bottom: solid 1px blue;"> </spqn> 
 > </summary>
->
+> 
+> - SEM (SEO / PPC) : <br>
 > ![Google TagManager   ](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
 > ![Google AdSense      ](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Optimize     ](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=F0F8FF&logoColor=B366F6)
+> - Aggrigation / Presentation : <br>
 > ![Google Sheets       ](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=)
+> ![Google Slide    　　   ](https://img.shields.io/badge/-Google%20Slide-FFCC33.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=FFCC33)
 > ![Microsoft Excel     ](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=F0F8FF&logoColor=217346)
 > ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=F0F8FF&logoColor=B7472A)
-> ![Octopus             ](https://img.shields.io/badge/-Octopus-2F93E0.svg?logo=octopus-deploy&style=flat&color=F0F8FF&logoColor=2F93E0)
-> ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
-> ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
+> - Front-end : <br>
 > ![HTML5               ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=F0F8FF&logoColor=)
 > ![CSS3                ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=F0F8FF&logoColor=1572B6)
 > ![Bootstrap           ](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)
 > ![JavaScript          ](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=F0F8FF&logoColor=FFD700)
 > ![jQuery              ](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=F0F8FF&logoColor=0769AD)
+> - CMS : 
+> ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
+> - IDE : 
+> ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
 > 
 <!-- STOCK -- 
 > ![Salseforce          ](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=F0F8FF&logoColor=00A1E0)
@@ -149,34 +147,36 @@
 
 
 ## 🧊 OtherDetail
-<details>
-<summary>
-    <span> ❄ CERTIFICATIONS / PRODUCTS / ...etc. </span>
-</summary>
-
-* MY_CERTIFICATIONS
-
-```
-• Google Analytics Individual Qualification #2017 #2018
-• Python 3 Basic Grammar Certification #2020
-• Python 3 Data Analyst Certification #2021
-```
-    
-* MY_PRODUCTS @ Web
-
-| <p>💽 [djpj](https://djpj.herokuapp.com)</p> <hr> ![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat&color=eee&logoColor=092E20) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098) <br> (Weblog) <br>  - Dec,2020 launch - | <p>🦥 [Clazy](https://clazy.herokuapp.com)</p>  <hr> ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&color=eee&logoColor=) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=Heroku&style=flat&color=eee&logoColor=430098) <br> (Web Application) <br> - Aug,2019 launch - | <p>🎩 [SHIZON]()</p> <hr> ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=eeeeee&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=flat&color=eee&logoColor=) <br>(Weblog)<br> - Nov,2017 launch - |
-|-|-|-|
-
-    ※Clazy - ID:clazykun@gmail.com Pw:123456
-
-* COMITGRAPH
-
-![profile-summary-card-output](https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+> <details>
+> <summary>
+>     <span> </span>
+> </summary>
+> 
+> #### ❄ CERTIFICATIONS
+> 
+> ```
+> • Google Analytics Individual Qualification #2017 #2018
+> • Python 3 Basic Grammar Certification #2020
+> • Python 3 Data Analyst Certification #2021
+> ```
+> 
+> #### ❄ COMITGRAPH
+> 
+> ![profile-summary-card-output](https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+> 
+<!-- 
+> #### ❄ Kaggle
+>
+> ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
+> ![dataset.   ](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/dataset)
+> ![notebook.  ](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/notebook)
+> ![discussion.](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/discussion)
+ -->
 
 <!--
 * Definition_Document @ DS
- 
 [<img src="https://user-images.githubusercontent.com/28585421/152119352-68256eb8-79d9-4faf-a3c5-3a15786027f9.png" width="60%"/>](https://docs.google.com/spreadsheets/d/1lifn967BD0TK1XD8Wi9ZSHr8R7RsG-6ZoMStsagVd6k/edit?usp=shari)<br>
+https://introduction361.herokuapp.com/
 --> 
 
 </details>
