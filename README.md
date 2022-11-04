@@ -75,7 +75,7 @@
 > - DWH : <br>
 > ![Google BigQuery    ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
-> - Visualizar : <br>
+> - Visualizar & Dashboard : <br>
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - ML : <br>
@@ -130,17 +130,17 @@
 > ![Google Slide    　　   ](https://img.shields.io/badge/-Google%20Slide-FFCC33.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=FFCC33)
 > ![Microsoft Excel     ](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=F0F8FF&logoColor=217346)
 > ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=F0F8FF&logoColor=B7472A)
-> - Front-end & library : <br>
+> - Front-end & library & CMS : <br>
 > ![HTML5               ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=F0F8FF&logoColor=)
 > ![CSS3                ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=F0F8FF&logoColor=1572B6)
 > ![Bootstrap           ](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)
 > ![JavaScript          ](https://img.shields.io/badge/JavaScript-FFD700.svg?logo=javascript&style=flat&color=F0F8FF&logoColor=FFD700)
 > ![jQuery              ](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat&color=F0F8FF&logoColor=0769AD)
-> - CMS : <br>
 > ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
 > - IDE : <br>
 > ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
 > 
+>
 <!-- STOCK -- 
 > ![Salseforce          ](https://img.shields.io/badge/-Salesforce-00A1E0.svg?logo=salesforce&style=flat&color=F0F8FF&logoColor=00A1E0)
 > ![XAMPP               ](https://img.shields.io/badge/-XAMPP-FB7A24.svg?logo=xampp&style=flat&color=F0F8FF&logoColor=)
