@@ -94,6 +94,11 @@
 > 
 > 
 <!-- STOCK --
+> ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
+> ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/dataset)
+> ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/notebook)
+> ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/discussion)
+>
 > ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
