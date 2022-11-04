@@ -23,10 +23,9 @@
 
 
 ## 🧊 MyCareer
-> #### ❄ Data Analysis Engineer (Oct.2020~)
 > <details>
 > <summary>
->     <span style="border-bottom: solid 1px blue;"> </spqn> 
+>     <span style="border-bottom: solid 1px blue;"> ❄ Data Analysis Engineer (Oct.2020~) </spqn> 
 > </summary>
 > 
 > - Cloud : <br>
@@ -60,10 +59,9 @@
 > </details>
 > 
 > 
-> #### ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) 
 > <details>
 > <summary>
->     <span style="border-bottom: solid 1px blue;"> </spqn> 
+>     <span style="border-bottom: solid 1px blue;"> ❄ Digital Marketer / SEM (Apr.2016 ~ Sep.2020) </spqn> 
 > </summary>
 > 
 > - SEM (SEO / PPC) : <br>
