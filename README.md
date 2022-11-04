@@ -49,11 +49,12 @@
 <main align="center">
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
-[![Gist    ](https://img.shields.io/badge/-GitHub%20Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
+[![Github Gist](https://img.shields.io/badge/-GitHub%20Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
-[![Twiiter.](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
-[![Kaggle  ](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
-
+[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
+[![Goole% evlopers](https://img.shields.io/badge/-Goole%20Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/111506210422665985980)
+ 
 <!-- STOCK -- 
 [![Skype  ](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
 [![slack  ](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=D9E5FF&logoColor=4A154B)]()
