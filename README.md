@@ -1,49 +1,7 @@
-<!-- ----------------------------------------------------
- |【📊 INFO GRAPHIC　】
- | ■ GitHub Profile Summary Cards
- |    (cf.) https://github.com/vn7n24fzkq/github-profile-summary-cards
- | 
- | ![.tk's graph    ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
- | ![top_lang_repo  ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
- | ![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
- |  
- | ----------------------------------------------------
- | ■ GitHub Readme Stats
- |    (cf.) https://github.com/anuraghazra/github-readme-stats
- | 
- | ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
- | ![Top Langs         ](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
- | ![wakatime stats    ](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
- | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
- | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
- |  
- | ----------------------------------------------------
- | ■ 
- |    (cf.) https://qiita.com/ryo-ma/items/c6298020098cb631f46e
- | 
- | ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
- |  
- | ----------------------------------------------------
- | 
- |【📛 BADGE　】
- |    (cf.)　https://shields.io/
- |    (cf.)　https://simpleicons.org/
- |    (cf.)　https://www.seil.jp/doc/index.html#tool/url-encode.html
- | 
- | -- How to wright -----------------------------------
- | 
- |   ![{name}](https://img.shields.io/badge/-{name}-{color}.svg
- |             ?logo={name}
- |             &style=flat
- |             &color={background-color}
- |             &logoColor={color})
- | 
- | ---------------------------------------------------- -->
-
-
 <head align="center">
     <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" alt="iceberg_header_image" width="100%"/>
 </head>
+
 
 
 <main align="center">
@@ -53,7 +11,7 @@
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
-[![Goole% evlopers](https://img.shields.io/badge/-Goole%20Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/111506210422665985980)
+[![Google% evlopers](https://img.shields.io/badge/-Google%20Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/111506210422665985980)
  
 <!-- STOCK -- 
 [![Skype  ](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
@@ -92,26 +50,13 @@
 > ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![Git               ](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
 > ![Docker            ](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
+> ![Anaconda          ](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
 > - IDE : <br>
 > ![VisualStudioCode. ](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 > ![Neovim            ](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
 > - OS : <br>
 > ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu            ](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
-> 
-> 
-<!-- STOCK --
-> ![Google Looker     ](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
-> ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
-> ![Anaconda          ](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
-> ![Keras             ](https://img.shields.io/badge/-Keras-D00.svg?logo=keras&style=flat&color=F0F8FF&logoColor=)
-> ![AWS               ](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=D9E5FF&logoColor=FB7A24)
-> ![Pandas            ](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=D9E5FF&logoColor=150458)
-> ![OpenCV            ](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=D9E5FF&logoColor=5C3EE8)
-> ![Streamlit         ](https://img.shields.io/badge/-Streamlit-FF4B4B.svg?logo=streamlit&style=flat&color=D9E5FF&logoColor=)
-> ![Raspberry Pi      ](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat&color=D9E5FF&logoColor=)
-> ![Apache Spark      ](https://img.shields.io/badge/-Apache%20Spark-E25A1C.svg?logo=apache-spark&style=flat&color=D9E5FF&logoColor=E25A1C)
--->
 > </details>
 > 
 > 
@@ -180,3 +125,47 @@ https://introduction361.herokuapp.com/
 
 </details>
 </main>
+
+
+
+<!-- ----------------------------------------------------
+ |【📊 INFO GRAPHIC　】
+ | ■ GitHub Profile Summary Cards
+ |    (cf.) https://github.com/vn7n24fzkq/github-profile-summary-cards
+ | 
+ | ![.tk's graph    ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+ | ![top_lang_repo  ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+ | ![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+ |  
+ | ----------------------------------------------------
+ | ■ GitHub Readme Stats
+ |    (cf.) https://github.com/anuraghazra/github-readme-stats
+ | 
+ | ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
+ | ![Top Langs         ](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
+ | ![wakatime stats    ](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
+ | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
+ | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
+ |  
+ | ----------------------------------------------------
+ | ■ 
+ |    (cf.) https://qiita.com/ryo-ma/items/c6298020098cb631f46e
+ | 
+ | ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
+ |  
+ | ----------------------------------------------------
+ | 
+ |【📛 BADGE　】
+ |    (cf.)　https://shields.io/
+ |    (cf.)　https://simpleicons.org/
+ |    (cf.)　https://www.seil.jp/doc/index.html#tool/url-encode.html
+ | 
+ | -- How to wright -----------------------------------
+ | 
+ |   ![{name}](https://img.shields.io/badge/-{name}-{color}.svg
+ |             ?logo={name}
+ |             &style=flat
+ |             &color={background-color}
+ |             &logoColor={color})
+ | 
+ | ---------------------------------------------------- -->
