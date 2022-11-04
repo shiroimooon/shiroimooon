@@ -70,26 +70,32 @@
 >     <span style="border-bottom: solid 1px blue;"> </spqn> 
 > </summary>
 > 
-> -  
+> - Cloud : <br>
 > ![Google Cloud       ](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
-> - DWH 
+> - DWH : <br>
 > ![Google BigQuery    ](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> ![Google BigQuery ML ](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
-> ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
 > ![Presto            ](https://img.shields.io/badge/-Presto%20-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
-> ![Python            ](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)
-> ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
-> ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
-> ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
+> - Visualizar : <br>
 > ![Tableau           ](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
-> ![Markdown          ](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)
+> ![Plotly            ](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
+> - ML : <br>
+> ![Google BigQuery ML ](https://img.shields.io/badge/-BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![NumPy             ](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
+> ![scikit-learn      ](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
+> - IDE : <br>
 > ![VisualStudioCode. ](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
-> ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![Neovim            ](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
+> - Interactive shell(対話型実行環境) : <br>
+> ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
 > ![JupyterLab        ](https://img.shields.io/badge/-JupyterLab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
+> （![Markdown          ](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
+> - Midle wearf : <br>
+> ![iTerm2            ](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![Git               ](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
 > ![Docker            ](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
+> - OS : <br>
 > ![Macintosh         ](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
+> ![Ubuntu            ](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
 > 
 > 
 <!-- STOCK --
@@ -97,7 +103,6 @@
 > ![Google Chrome     ](https://img.shields.io/badge/-Google%20Chrome-4285F4.svg?logo=google-chrome&style=flat&color=F0F8FF&logoColor=)
 > ![Anaconda          ](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
 > ![Keras             ](https://img.shields.io/badge/-Keras-D00.svg?logo=keras&style=flat&color=F0F8FF&logoColor=)
-> ![Ubuntu            ](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=D9E5FF&logoColor=)
 > ![AWS               ](https://img.shields.io/badge/-AWS-FB7A24.svg?logo=amazon-aws&style=flat&color=D9E5FF&logoColor=FB7A24)
 > ![Pandas            ](https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat&color=D9E5FF&logoColor=150458)
 > ![OpenCV            ](https://img.shields.io/badge/-OpenCV-5C3EE8.svg?logo=opencv&style=flat&color=D9E5FF&logoColor=5C3EE8)
