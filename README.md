@@ -13,13 +13,6 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 [![Google% evlopers](https://img.shields.io/badge/-Google%20Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/111506210422665985980)
  
-<!-- STOCK -- 
-[![Skype  ](https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=flat&color=D9E5FF&logoColor=00AFF0)]()
-[![slack  ](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&color=D9E5FF&logoColor=4A154B)]()
-[![Zoom   ](https://img.shields.io/badge/-Zoom-2D8CFF.svg?logo=zoom&style=flat&color=D9E5FF&logoColor=2D8CFF)]()
-[![Gmail  ](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=flat&color=D9E5FF&logoColor=EA4335)]()
-![PUBGm   ](https://img.shields.io/badge/-PUBGm-FEAB02.svg?logo=pubg&style=flat&color=D9E5FF&logoColor=FEAB02)
--->
 
 
 ## 🧊 MyCareer
@@ -84,6 +77,8 @@
 > ![WordPress           ](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
 > - IDE : <br>
 > ![Atom                ](https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat&color=F0F8FF&logoColor=66595C)
+> - OS : <br>
+> ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat&color=F0F8FF&logoColor=0078D6)
 > </details>
 
 
