@@ -11,6 +11,8 @@
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?logo=leetcode&style=flat&color=D9E5FF&logoColor=FFA116)](https://leetcode.com/polar-beer/)
+
 <!-- 
 [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/111506210422665985980)
 [![Udemy](https://img.shields.io/badge/-Udemy-A435F0.svg?logo=udemy&style=flat&color=D9E5FF&logoColor=A435F0)](https://www.udemy.com/user/ht-169/)
