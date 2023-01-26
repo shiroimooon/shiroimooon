@@ -42,7 +42,7 @@
 > ![Google BigQuery ML](https://img.shields.io/badge/-Google%20BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
-> - Interactive shell (対話型実行環境) : <br>
+> - REPL(対話型実行環境) : <br>
 > ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
 > ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
 > （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
