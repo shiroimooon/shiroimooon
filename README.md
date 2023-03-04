@@ -41,6 +41,7 @@
 > - ML/DL: <br>
 > ![Google BigQuery ML](https://img.shields.io/badge/-Google%20BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
+> ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
 > - REPL(対話型実行環境) : <br>
 > ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
