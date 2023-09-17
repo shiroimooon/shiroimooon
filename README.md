@@ -35,7 +35,7 @@
 > ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - Visualizar & Dashboard : <br>
-> ![Google Looker](https://img.shields.io/badge/-Google%20Dataportal-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
+> ![Google LookerStudio](https://img.shields.io/badge/-Google%20LookerStudio-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - ML/DL: <br>
