@@ -39,7 +39,7 @@
 > ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - ML/DL: <br>
-> ![Google BigQuery ML](https://img.shields.io/badge/-Google%20BigQuery%20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Google BQML](https://img.shields.io/badge/-Google%20BQ20ML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
