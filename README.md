@@ -9,10 +9,11 @@
 
 [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
-[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
+[![X](https://img.shields.io/badge/-@_shi6ma-181717.svg?logo=x&style=flat&color=D9E5FF&logoColor=000000)](https://twitter.com/_shi6ma)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 
 <!-- Stocs
+[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF.svg?logo=mastodon&style=flat&color=D9E5FF&logoColor=6364FF)](https://mstdn.jp/@shi6ma)
 [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?logo=leetcode&style=flat&color=D9E5FF&logoColor=FFA116)](https://leetcode.com/polar-beer/)
