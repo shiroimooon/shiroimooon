@@ -34,16 +34,17 @@
 > - Cloud : <br>
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
 > - DWH : <br>
-> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=669DF6)
 > ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - BI(Visualizar & Dashboard） : <br>
 > ![Google LookerStudio](https://img.shields.io/badge/-Google%20LookerStudio-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Tableau](https://img.shields.io/badge/-Tableau-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - ML/DL: <br>
-> ![Google BQML](https://img.shields.io/badge/-Google%20BQML-EEE.svg?logo=code-review&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![BigQueryML](https://img.shields.io/badge/-BigQueryML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
+> ![Pandas](https://img.shields.io/badge/-Pandas-CD792C.svg?logo=pandas&style=flat&color=F0F8FF&logoColor=CD792C)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
 > - REPL(対話型実行環境) : <br>
 > ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
