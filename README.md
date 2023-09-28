@@ -5,20 +5,19 @@
 
 
 <main align="center">
-
+<!-- Communication Tools -->
 [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
 [![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 
-<!--
+<!-- Stocs
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF.svg?logo=mastodon&style=flat&color=D9E5FF&logoColor=6364FF)](https://mstdn.jp/@shi6ma)
 [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?logo=leetcode&style=flat&color=D9E5FF&logoColor=FFA116)](https://leetcode.com/polar-beer/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=coursera&style=flat&color=D9E5FF&logoColor=0056D2)](https://www.coursera.org/user/0759ec1a1a08a381f98495cd863f59d1)
 -->
 
- 
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
     
@@ -72,7 +71,7 @@
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=F0F8FF&logoColor=B366F6)
-> - Aggrigation / Presentation : <br>
+> - Aggregation / Presentation : <br>
 > ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-E37400.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=)
 > ![Google Slide](https://img.shields.io/badge/-Google%20Slide-FFCC33.svg?logo=google-sheets&style=flat&color=F0F8FF&logoColor=FFCC33)
 > ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&color=F0F8FF&logoColor=217346)
@@ -104,6 +103,7 @@
 > • Google Analytics Individual Qualification #2017 #2018
 > • Python 3 Basic Grammar Certification #2020
 > • Python 3 Data Analyst Certification #2021
+> • -
 > ```
 > 
 > #### ❄ COMITGRAPH
@@ -130,44 +130,49 @@ https://introduction361.herokuapp.com/
 
 
 
-<!-- ----------------------------------------------------
- |【📊 INFO GRAPHIC　】
+<!-- 
+ ----------------------------------------------------
+ | NOTE
+ ----------------------------------------------------
+ | 【📊 INFO GRAPHIC　】
  | ■ GitHub Profile Summary Cards
- |    (cf.) https://github.com/vn7n24fzkq/github-profile-summary-cards
+ |   cf.  https://github.com/vn7n24fzkq/github-profile-summary-cards
+ |   e.g. ![Graph          ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+ |        ![top_lang_repo  ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+ |        ![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
  | 
- | ![.tk's graph    ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
- | ![top_lang_repo  ](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
- | ![top_lang_commit](https://raw.githubusercontent.com/GitHiru/GitHiru/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
- |  
+ | 
  | ----------------------------------------------------
  | ■ GitHub Readme Stats
- |    (cf.) https://github.com/anuraghazra/github-readme-stats
+ |   cf.  https://github.com/anuraghazra/github-readme-stats
+ |   e.g. ![Github stats  ](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
+ |        ![Top Langs     ](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
+ |        ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
+ |        ![Repo Card     ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
+ |        ![Repo Card     ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
  | 
- | ![.tk's github stats](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
- | ![Top Langs         ](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHiru&layout=compact&theme=solarized-dark&hide=html,css)
- | ![wakatime stats    ](https://github-readme-stats.vercel.app/api/wakatime?username=GitHiru&layout=compact&theme=solarized-dark)
- | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
- | ![Repo Card         ](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=solarized-dark)
- |  
+ | 
  | ----------------------------------------------------
  | ■ 
- |    (cf.) https://qiita.com/ryo-ma/items/c6298020098cb631f46e
- | 
- | ![.tk's trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
+ |    cf.  https://qiita.com/ryo-ma/items/c6298020098cb631f46e
+ |    e.g. ![Trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
  |  
+ | 
  | ----------------------------------------------------
- | 
- |【📛 BADGE　】
- |    (cf.)　https://shields.io/
- |    (cf.)　https://simpleicons.org/
- |    (cf.)　https://www.seil.jp/doc/index.html#tool/url-encode.html
- | 
- | -- How to wright -----------------------------------
- | 
- |   ![{name}](https://img.shields.io/badge/-{name}-{color}.svg
+ | 【📛 BADGE　】
+ |　　◼️ How to wright 
+ |   ![{name}](https://img.shields.io
+ |             /badge
+ |             /-{name}-{color}.svg
  |             ?logo={name}
  |             &style=flat
  |             &color={background-color}
  |             &logoColor={color})
+　　|
+ |    cf. https://shields.io/
+ |    cf. 　https://simpleicons.org/
+ |    cf 　https://www.seil.jp/doc/index.html#tool/url-encode.html
+　　|
  | 
- | ---------------------------------------------------- -->
+ ---------------------------------------------------- 
+ -->
