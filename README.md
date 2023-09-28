@@ -17,6 +17,7 @@
 [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?logo=leetcode&style=flat&color=D9E5FF&logoColor=FFA116)](https://leetcode.com/polar-beer/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=coursera&style=flat&color=D9E5FF&logoColor=0056D2)](https://www.coursera.org/user/0759ec1a1a08a381f98495cd863f59d1)
+[![LinkdIn](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=linkdin&style=flat&color=D9E5FF&logoColor=0056D2)](https://www.coursera.org/user/0759ec1a1a08a381f98495cd863f59d1)
 -->
 
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
@@ -169,6 +170,9 @@ https://introduction361.herokuapp.com/
  |             &style=flat
  |             &color={background-color}
  |             &logoColor={color})
+ |
+ |   e.g. Github  
+ |        https://img.shields.io/badge/-GIthub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717
 　　|
  |    cf. https://shields.io/
  |    cf. 　https://simpleicons.org/
