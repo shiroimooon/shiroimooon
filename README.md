@@ -174,9 +174,9 @@ https://introduction361.herokuapp.com/
  |   e.g. Github  
  |        https://img.shields.io/badge/-GIthub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717
 　　|
- |    cf. https://shields.io/
- |    cf. 　https://simpleicons.org/
- |    cf 　https://www.seil.jp/doc/index.html#tool/url-encode.html
+ |   cf. https://shields.io/
+ |   cf. https://simpleicons.org/
+ |   cf. https://www.seil.jp/doc/index.html#tool/url-encode.html
 　　|
  | 
  ---------------------------------------------------- 
