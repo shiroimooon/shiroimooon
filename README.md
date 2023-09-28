@@ -114,7 +114,7 @@
 > 
 <!-- 
 > #### ❄ Kaggle
->
+> (ゆくゆく参考に作成したいやつ)
 > ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
 > ![dataset.   ](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/dataset)
 > ![notebook.  ](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/notebook)
