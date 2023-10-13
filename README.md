@@ -32,6 +32,7 @@
 
 - Cloud : <br>
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
+![Cloud　Function](https://img.shields.io/badge/-Cloud%20Function-EEE.svg?logo=cloud-function&style=flat&color=F0F8FF&logoColor=)
 - DWH : <br>
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=669DF6)
 ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
@@ -45,15 +46,15 @@
 ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
 ![Pandas](https://img.shields.io/badge/-Pandas-CD792C.svg?logo=pandas&style=flat&color=F0F8FF&logoColor=150458)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
-- REPL(対話型実行環境) : <br>
-![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
-![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
-（![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
-- Midle Wearf : <br>
+- Midle　Wear : <br>
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
 ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
+- REPL(対話型実行環境) : <br>
+![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
+![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
+（![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
 - IDE : <br>
 ![VisualStudioCode. ](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
