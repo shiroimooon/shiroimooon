@@ -7,6 +7,7 @@
 <main align="center">
 <!-- Communication Tools -->
 
+## 🧊 LINKS (Blog SNS ...etc.)
 [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
 [![X](https://img.shields.io/badge/-@_shi6ma-181717.svg?logo=x&style=flat&color=D9E5FF&logoColor=000000)](https://twitter.com/_shi6ma)
