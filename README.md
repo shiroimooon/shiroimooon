@@ -99,7 +99,7 @@
 
 
 
-## 🧊 OtherDetail
+## 🧊 Other　Detail
 > <details>
 > <summary>
 >     <span> </span>
