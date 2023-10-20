@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
-## 🧊 MyCareer
+## 🧊 MyCareer Detail＆Tools
 <!-- Detail 1-->
 <details>
 <summary>
