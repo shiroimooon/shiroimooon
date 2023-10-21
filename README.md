@@ -7,6 +7,8 @@
 <main align="center">
 <!-- Communication Tools -->
 
+<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
+
 ## 🧊 LINKS (Blog SNS ...etc.)
 [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer)
 [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections)
@@ -14,15 +16,13 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 
 <!-- Stocs
-[![Twiiter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat&color=D9E5FF&logoColor=1DA1F2)](https://twitter.com/_shi6ma)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF.svg?logo=mastodon&style=flat&color=D9E5FF&logoColor=6364FF)](https://mstdn.jp/@shi6ma)
 [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?logo=leetcode&style=flat&color=D9E5FF&logoColor=FFA116)](https://leetcode.com/polar-beer/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=coursera&style=flat&color=D9E5FF&logoColor=0056D2)](https://www.coursera.org/user/0759ec1a1a08a381f98495cd863f59d1)
-[![LinkdIn](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=linkdin&style=flat&color=D9E5FF&logoColor=0056D2)](https://www.coursera.org/user/0759ec1a1a08a381f98495cd863f59d1)
+[![LinkdIn](https://img.shields.io/badge/-Coursera-0056D2.svg?logo=linkdin&style=flat&color=D9E5FF&logoColor=0056D2)]()
 -->
 
-<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
 ## 🧊 MyCareer Detail＆Tools
 <!-- Detail 1-->
