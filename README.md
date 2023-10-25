@@ -30,7 +30,7 @@
 -->
 
 
-## 🧊 MyCareer Details
+## 🧊 Career Details
 <!-- Detail 1 -->
 > <details>
 > <summary>
