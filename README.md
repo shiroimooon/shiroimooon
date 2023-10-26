@@ -73,6 +73,9 @@
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
+> - Data Source <br>
+> ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&color=F0F8FF&logoColor=FFCA28)
+> ![GA4](https://img.shields.io/badge/-GA4-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=E37400)
 > </details>
 
 
@@ -89,7 +92,7 @@
 > 
 > - SEM (SEO / PPC) : <br>
 > ![Google TagManager](https://img.shields.io/badge/-Google%20TagManager-4285F4.svg?logo=google-tag-manager&style=flat&color=F0F8FF&logoColor=4285F4)
-> ![Google Analytics(UA)](https://img.shields.io/badge/-Google%20Analytics%28UA%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
+> ![Google Analytics(UA/360)](https://img.shields.io/badge/-Google%20Analytics%28UA/360%29-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=)
 > ![Google SearchConsole](https://img.shields.io/badge/-Google%20SearchConsole-458CF5.svg?logo=google-search-console&style=flat&color=F0F8FF&logoColor=458CF5)
 > ![Google AdSense](https://img.shields.io/badge/-Google%20AdSense-4285F4.svg?logo=google-adsense&style=flat&color=F0F8FF&logoColor=4285F4)
 > ![Google Optimize](https://img.shields.io/badge/-Google%20Optimize-B366F6.svg?logo=google-optimize&style=flat&color=F0F8FF&logoColor=B366F6)
@@ -156,7 +159,7 @@ https://introduction361.herokuapp.com/
 
 <!-- 
  ----------------------------------------------------
- | NOTE
+ | [[ NOTE ]]
  ----------------------------------------------------
  | 【📊 INFO GRAPHIC　】
  | ■ GitHub Profile Summary Cards
@@ -167,6 +170,7 @@ https://introduction361.herokuapp.com/
  | 
  | 
  | ----------------------------------------------------
+ | 【📊 INFO GRAPHIC　2 】
  | ■ GitHub Readme Stats
  |   cf.  https://github.com/anuraghazra/github-readme-stats
  |   e.g. ![Github stats  ](https://github-readme-stats.vercel.app/api?username=GitHiru&show_icons=true&theme=solarized-dark&hide=issues,contribs)
@@ -177,14 +181,15 @@ https://introduction361.herokuapp.com/
  | 
  | 
  | ----------------------------------------------------
+ | 【📊 INFO GRAPHIC　3 】
  | ■ 
  |    cf.  https://qiita.com/ryo-ma/items/c6298020098cb631f46e
  |    e.g. ![Trophy](https://github-profile-trophy.vercel.app/?username=GitHiru&theme=dark)
  |  
  | 
  | ----------------------------------------------------
- | 【📛 BADGE　】
- |　　◼️ How to wright 
+ | 【📛 BADGE　】 
+ |　　◼️ How to wright @ Markdown 
  |   ![{name}](https://img.shields.io
  |             /badge
  |             /-{name}-{color}.svg
@@ -193,8 +198,8 @@ https://introduction361.herokuapp.com/
  |             &color={background-color}
  |             &logoColor={color})
  |
- |   e.g. Github  
- |        https://img.shields.io/badge/-GIthub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717
+ | ◼️ e.g. "Github" badge if u choice. 
+ |   https://img.shields.io/badge/-GIthub-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717
 　　|
  |   cf. https://shields.io/
  |   cf. https://simpleicons.org/
