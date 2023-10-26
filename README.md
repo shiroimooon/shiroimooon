@@ -52,7 +52,7 @@
 > ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - BI : <br>
 > ![Google LookerStudio](https://img.shields.io/badge/-Looker%20Studio-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
-> ![Tableau](https://img.shields.io/badge/-Tableau%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
+> ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > - ML/DL: <br>
 > ![BQML](https://img.shields.io/badge/-BQML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=1C69F0)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
@@ -74,7 +74,7 @@
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
-> - Data Source <br>
+> - Data Source : <br>
 > ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&color=F0F8FF&logoColor=FFCA28)
 > ![GA4](https://img.shields.io/badge/-GA4-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=E37400)
 > </details>
