@@ -42,22 +42,21 @@
 > ```
 > 
 > - Cloud : <br>
-> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
-> ![Google Cloud](https://img.shields.io/badge/-%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage%29-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
+> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF)<br>
+> ![Google Cloud](https://img.shields.io/badge/-%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF)
 > - ETL : {Learning （勉強中)} <br>
-> ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=FF694B)
-> ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=EF7B4D)
-> ![Argo](https://img.shields.io/badge/-argo%20airflow-FFF.svg?logo=argo&style=flat&color=F0F8FF&)
-> ![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat&color=F0F8FF&logoColor=844FBA)
+> ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF)
+> ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF)
+> ![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat&color=F0F8FF)
 > - DWH : <br>
-> ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=669DF6)
-> ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
+> ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF)
+> ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF)
 > - BI : <br>
-> ![Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
-> ![Google LookerStudio](https://img.shields.io/badge/-Looker%20Studio-EEE.svg?logo=looker&style=flat&color=F0F8FF&logoColor=)
-> ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
+> ![Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF)
+> ![LookerStudio](https://img.shields.io/badge/-Looker%20Studio-EEE.svg?logo=googledatastudio&style=flat&color=F0F8FF)
+> ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF)
 > - ML/DL: <br>
-> ![BQML](https://img.shields.io/badge/-BQML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=1C69F0)
+> ![BQML](https://img.shields.io/badge/-BQML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
