@@ -36,8 +36,6 @@
 > <summary>
 >     <span style="border-bottom: solid 1px blue;"> ❄ Data Analysis Engineer (Oct.2020~) </span>
 > </summary>
-> 
-> ![スクリーンショット 2023-11-07 0 22 35](https://github.com/polar-beer/polar-beer/assets/28585421/e57570c2-f0ab-49ca-aa46-a951352bf31b)
 >
 > ```
 > {exprain}
@@ -81,6 +79,8 @@
 > - Data Source : <br>
 > ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&color=F0F8FF&logoColor=FFCA28)
 > ![GA4](https://img.shields.io/badge/-GA4-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=E37400)
+>
+> ![スクリーンショット 2023-11-07 0 22 35](https://github.com/polar-beer/polar-beer/assets/28585421/e57570c2-f0ab-49ca-aa46-a951352bf31b)
 > </details>
 
 
