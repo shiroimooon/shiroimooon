@@ -2,7 +2,7 @@
  | [[ HEAD ]]
  -------------------------------- -->
 <head align="center">
-    <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" alt="iceberg_header_image" width="100%"/>
+    <img width="100%" alt="iceberg_header_image" src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" />
 </head>
 
 
