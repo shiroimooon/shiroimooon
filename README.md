@@ -37,10 +37,12 @@
 >     <span style="border-bottom: solid 1px blue;"> ❄ Data Analysis Engineer (Oct.2020~) </span>
 > </summary>
 > 
+> ![スクリーンショット 2023-11-07 0 22 35](https://github.com/polar-beer/polar-beer/assets/28585421/e57570c2-f0ab-49ca-aa46-a951352bf31b)
+>
 > ```
 > {exprain}
-> ```
-> 
+> ``` 
+>
 > - Cloud : <br>
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
 > (![Google Cloud](https://img.shields.io/badge/-GCP%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=))
