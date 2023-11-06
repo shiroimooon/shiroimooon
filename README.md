@@ -21,6 +21,8 @@
 &nbsp; [![X](https://img.shields.io/badge/-@_shi6ma-181717.svg?logo=x&style=flat&color=D9E5FF&logoColor=000000)](https://twitter.com/_shi6ma) 
 &nbsp; [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 
+
+
 <!-- Stocs
 &nbsp; [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF.svg?logo=mastodon&style=flat&color=D9E5FF&logoColor=6364FF)](https://mstdn.jp/@shi6ma)
 &nbsp; [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
@@ -211,6 +213,13 @@ https://introduction361.herokuapp.com/
  |   cf. https://simpleicons.org/
  |   cf. https://www.seil.jp/doc/index.html#tool/url-encode.html
 　　|
+ | 
+ | ----------------------------------------------------
+ | 【💡 ARRANGEMENT 】
+ | ■ 
+ |    cf.  https://github.com/kawarimidoll/typograssy
+ |    e.g. ![typograssy](https://typograssy.deno.dev/api?text=I'm%20shi6ma)
+ |  
  | 
  ---------------------------------------------------- 
  -->
