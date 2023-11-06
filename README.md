@@ -106,7 +106,7 @@
 > ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&color=F0F8FF&logoColor=B7472A)
 > - CMS : <br>
 > ![WordPress](https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=flat&color=F0F8FF&logoColor=21759B)
-> - Front-end & library & CMS : <br>
+> - Front End & library <br>
 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&color=F0F8FF&logoColor=)
 > ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&color=F0F8FF&logoColor=1572B6)
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&color=F0F8FF&logoColor=563D7C)
