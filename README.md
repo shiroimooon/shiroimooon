@@ -44,13 +44,17 @@
 > - Cloud : <br>
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
 > ![Google Cloud](https://img.shields.io/badge/-%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage%29-EEE.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
-> - ETL : <br>
-> {Learning （勉強中)}
+> - ETL : {Learning （勉強中)} <br>
+> ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=FF694B)
+> ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=EF7B4D)
+> ![Argo](https://img.shields.io/badge/-argo%20airflow-FFF.svg?logo=argo&style=flat&color=F0F8FF&)
+> ![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat&color=F0F8FF&logoColor=844FBA)
 > - DWH : <br>
 > ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=669DF6)
 > ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=150458)
 > - BI : <br>
-> ![Google LookerStudio](https://img.shields.io/badge/-Looker%20Studio-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
+> ![Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=4285F4)
+> ![Google LookerStudio](https://img.shields.io/badge/-Looker%20Studio-EEE.svg?logo=looker&style=flat&color=F0F8FF&logoColor=)
 > ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > - ML/DL: <br>
 > ![BQML](https://img.shields.io/badge/-BQML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=1C69F0)
