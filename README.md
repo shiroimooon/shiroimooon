@@ -68,10 +68,10 @@
 > - REPL(対話型実行環境) : <br>
 > ![Colaboratory](https://img.shields.io/badge/-Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
 > ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
-> （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
+> （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000) / ![Python](https://img.shields.io/badge/-Python-000.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)）
 > - IDE : <br>
-> ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
+> ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 > ![Neovim](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
