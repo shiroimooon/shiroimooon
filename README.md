@@ -21,8 +21,6 @@
 &nbsp; [![X](https://img.shields.io/badge/-@_shi6ma-181717.svg?logo=x&style=flat&color=D9E5FF&logoColor=000000)](https://twitter.com/_shi6ma) 
 &nbsp; [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
 
-
-
 <!-- Stocs
 &nbsp; [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF.svg?logo=mastodon&style=flat&color=D9E5FF&logoColor=6364FF)](https://mstdn.jp/@shi6ma)
 &nbsp; [![Google Devlopers](https://img.shields.io/badge/-Devlopers-4285F4.svg?logo=google&style=flat&color=D9E5FF&logoColor=4285F4)](https://developers.google.com/profile/u/shi6ma)
@@ -45,7 +43,7 @@
 >
 > - Cloud : <br>
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
-> (![Google Cloud](https://img.shields.io/badge/-GCP%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=))
+> (![Google Cloud](https://img.shields.io/badge/-GCP%20%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage,%20...%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=))
 > - ETL : {Learning （勉強中)} <br>
 > ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=)
 > ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=)
