@@ -42,8 +42,8 @@
 > ``` 
 >
 > - Cloud : <br>
-> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
-> (![Google Cloud](https://img.shields.io/badge/-GCP%20%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage,%20...%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=))
+> ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
+> ![GoogleCloud](https://img.shields.io/badge/-GCP%20%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage,%20...%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF)
 > - ETL : {Learning （勉強中)} <br>
 > ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=)
 > ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=)
@@ -56,13 +56,12 @@
 > ![LookerStudio](https://img.shields.io/badge/-Looker%20Studio-EEE.svg?logo=googledatastudio&style=flat&color=F0F8FF&logoColor=)
 > ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > - ML/DL: <br>
-> ![BigQUeryML](https://img.shields.io/badge/-BigQueryML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=)
+> ![BigQueryML](https://img.shields.io/badge/-BigQueryML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
 > ![Polars](https://img.shields.io/badge/-Polars-CD792C.svg?logo=polars&style=flat&color=F0F8FF&logoColor=CD792C)
 > ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E.svg?logo=scikit-learn&style=flat&color=F0F8FF&logoColor=)
 > ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75.svg?logo=plotly&style=flat&color=F0F8FF&logoColor=3F4F75)
 > - MidleWear : <br>
-> ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&color=F0F8FF&logoColor=)
 > ![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat&color=F0F8FF&logoColor=)
 > ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833.svg?logo=anaconda&style=flat&color=F0F8FF&logoColor=)
@@ -72,6 +71,7 @@
 > （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000)）
 > - IDE : <br>
 > ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
+> ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![Neovim](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
