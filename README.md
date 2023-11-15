@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
 
-## 🧊 LINKS (Blog SNS ...etc.)
+## 🧊 LINKS　
 <!-- Communication Tools -->
 &nbsp; [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/polar-beer) 
 &nbsp; [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@shi6ma/collections) 
