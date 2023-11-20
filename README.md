@@ -2,7 +2,7 @@
  | [[ HEAD ]]
  -------------------------------- -->
 <head align="center">
-    <img width="100%" alt="iceberg_header_image" src="https://raw.githubusercontent.com/sh16ma/sh16ma/master/assets/img/iceberg.png" />
+    <img width="100%" alt="iceberg_header_image" src="https://raw.githubusercontent.com/sh16ma/sh16ma/master/assets/img/iceberg_bg.png" />
 </head>
 
 
