@@ -2,7 +2,7 @@
  | [[ HEAD ]]
  -------------------------------- -->
 <head align="center">
-    <img width="100%" alt="iceberg_header_image" src="https://raw.githubusercontent.com/polar-beer/polar-beer/master/assets/img/iceberg.png" />
+    <img width="100%" alt="iceberg_header_image" src="https://raw.githubusercontent.com/sh16ma/sh16ma/master/assets/img/iceberg.png" />
 </head>
 
 
@@ -12,7 +12,7 @@
  -------------------------------- -->
 <main align="center">
 
-<img src="https://raw.githubusercontent.com/polar-beer/polar-beer/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top lang commit" align="right"/>
+<img src="https://raw.githubusercontent.com/sh16ma/sh16ma/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top_lang_commit" align="right"/>
 
 ## 🧊 LINKS　
 <!-- Communication Tools -->
