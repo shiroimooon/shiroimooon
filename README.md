@@ -73,7 +73,7 @@ https://www.udemy.com/user/ht-169/
 > - IDE : <br>
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
-> ![Neovim](https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=flat&color=F0F8FF&logoColor=57A143)
+> ![Vim](https://img.shields.io/badge/-vim-57A143.svg?logo=vim&style=flat&color=F0F8FF&logoColor=57A143)
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
