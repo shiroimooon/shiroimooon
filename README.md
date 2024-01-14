@@ -69,11 +69,13 @@ https://www.udemy.com/user/ht-169/
 > - REPL(対話型実行環境) : <br>
 > ![Colaboratory](https://img.shields.io/badge/-Colaboratory-F37626.svg?logo=google-colab&style=flat&color=F0F8FF&logoColor=F9AB00) 
 > ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
-> （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000) / ![Python](https://img.shields.io/badge/-Python-000.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)）
+> （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000) 
+> ![Python](https://img.shields.io/badge/-Python-000.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)）
 > - IDE : <br>
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
+> (![Zsh](https://img.shields.io/badge/-Zsh-F15A24.svg?logo=zsh&style=flat&color=F0F8FF&logoColor=F15A24)
+> ![Vim](https://img.shields.io/badge/-vim-57A143.svg?logo=vim&style=flat&color=F0F8FF&logoColor=57A143))
 > ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
-> ![Vim](https://img.shields.io/badge/-vim-57A143.svg?logo=vim&style=flat&color=F0F8FF&logoColor=57A143)
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
 > ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
