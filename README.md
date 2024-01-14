@@ -43,8 +43,14 @@ https://www.udemy.com/user/ht-169/
 > ``` 
 >
 > - Cloud : <br>
-> ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)<br>
-> ![GoogleCloud](https://img.shields.io/badge/-GCP%20%28Cloud%20Function,%20Pub/Sub,%20Cloud%20Strage,%20...%29-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF)
+> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
+> <br> (
+> ![Google Cloud Spanner](https://img.shields.io/badge/-Spanner-4285F4.svg?logo=googlecloudspanner&style=flat&color=F0F8FF&logoColor=)
+> ![Google Cloud Composer](https://img.shields.io/badge/-Composer-4285F4.svg?logo=googlecloudcomposer&style=flat&color=F0F8FF&logoColor=)
+> ![Google Dataflow](https://img.shields.io/badge/-Dataflow-AECBFA.svg?logo=googledataflow&style=flat&color=F0F8FF&logoColor=AECBFA)
+> ![Google Pub/Sub](https://img.shields.io/badge/-PubSub-AECBFA.svg?logo=googlepubsub&style=flat&color=F0F8FF&logoColor=AECBFA)
+> ![Google Cloud Storage](https://img.shields.io/badge/-Storage-AECBFA.svg?logo=googlecloudstorage&style=flat&color=F0F8FF&logoColor=AECBFA)
+> )
 > - ETL : {Learning （勉強中)} <br>
 > ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=)
 > ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=)
@@ -75,10 +81,8 @@ https://www.udemy.com/user/ht-169/
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > (![Zsh](https://img.shields.io/badge/-Zsh-F15A24.svg?logo=zsh&style=flat&color=F0F8FF&logoColor=F15A24)
 > ![Vim](https://img.shields.io/badge/-vim-57A143.svg?logo=vim&style=flat&color=F0F8FF&logoColor=57A143))
-> ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&color=F0F8FF&logoColor=007ACC)
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
-> ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat&color=F0F8FF&logoColor=)
 > - Data Source : <br>
 > ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&color=F0F8FF&logoColor=FFCA28)
 > ![GA4](https://img.shields.io/badge/-GA4-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=E37400)
