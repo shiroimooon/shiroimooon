@@ -96,7 +96,7 @@ https://www.udemy.com/user/ht-169/
 <!-- Detail 2 -->
 > <details>
 > <summary>
->     <span style="border-bottom: solid 1px blue;"> ❄ Growth Hacker (Apr.2016 ~ Sep.2020) </span>
+>     <span style="border-bottom: solid 1px blue;"> ❄ Digital Marketing (Apr.2016 ~ Sep.2020) </span>
 > </summary>
 > 
 > ```
