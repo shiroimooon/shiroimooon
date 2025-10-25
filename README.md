@@ -14,10 +14,11 @@
 
 <img src="https://raw.githubusercontent.com/sh16ma/sh16ma/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="top_lang_commit" align="right"/>
 
+&nbsp; [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/shiroimooon) 
+
 <!--
 ## 🧊 LINKS　
 !-- Communication Tools --
-&nbsp; [![Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gist.github.com/sh16ma) 
 &nbsp; [![GitPress](https://img.shields.io/badge/-GitPress-181717.svg?logo=github&style=flat&color=D9E5FF&logoColor=181717)](https://gitpress.io/@sh16ma/collections) 
 &nbsp; [![X](https://img.shields.io/badge/-@_shi6ma-181717.svg?logo=x&style=flat&color=D9E5FF&logoColor=000000)](https://twitter.com/_shi6ma) 
 &nbsp; [![Kaggle](https://img.shields.io/badge/-Kaggle-20BF0F8FF.svg?logo=kaggle&style=flat&color=D9E5FF&logoColor=20BF0F8FF)](https://www.kaggle.com/shi6ma)
@@ -43,26 +44,21 @@ https://www.udemy.com/user/ht-169/
 > {exprain}
 > ``` 
 >
-> - Cloud : <br>
+> - ENV : <br>
 > ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat&color=F0F8FF&logoColor=)
-> <br> (
-> ![Google Cloud Spanner](https://img.shields.io/badge/-Spanner-4285F4.svg?logo=googlecloudspanner&style=flat&color=F0F8FF&logoColor=)
+> - ETL : {Learning} <br>
+> ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=)
+> ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=)
 > ![Google Cloud Composer](https://img.shields.io/badge/-Composer-4285F4.svg?logo=googlecloudcomposer&style=flat&color=F0F8FF&logoColor=)
 > ![Google Dataflow](https://img.shields.io/badge/-Dataflow-AECBFA.svg?logo=googledataflow&style=flat&color=F0F8FF&logoColor=AECBFA)
 > ![Google Pub/Sub](https://img.shields.io/badge/-PubSub-AECBFA.svg?logo=googlepubsub&style=flat&color=F0F8FF&logoColor=AECBFA)
-> ![Google Cloud Storage](https://img.shields.io/badge/-Storage-AECBFA.svg?logo=googlecloudstorage&style=flat&color=F0F8FF&logoColor=AECBFA)
-> )
-> - ETL : {Learning （勉強中)} <br>
-> ![dbt](https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=flat&color=F0F8FF&logoColor=)
-> ![Argo](https://img.shields.io/badge/-argo%20airflow-EF7B4D.svg?logo=argo&style=flat&color=F0F8FF&logoColor=)
+> - IaC : <br>
 > ![Terraform](https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat&color=F0F8FF&logoColor=)
 > - DWH : <br>
 > ![BigQuery](https://img.shields.io/badge/-BigQuery-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=)
 > ![Presto](https://img.shields.io/badge/-Presto%20%28TreasureData%29-5890FF.svg?logo=presto&style=flat&color=F0F8FF&logoColor=)
 > - BI : <br>
-> ![Looker](https://img.shields.io/badge/-Looker-4285F4.svg?logo=looker&style=flat&color=F0F8FF&logoColor=)
 > ![LookerStudio](https://img.shields.io/badge/-Looker%20Studio-EEE.svg?logo=googledatastudio&style=flat&color=F0F8FF&logoColor=)
-> ![Tableau](https://img.shields.io/badge/-Tableau%20%28Desktop/Online%29-E97627.svg?logo=tableau&style=flat&color=F0F8FF&logoColor=)
 > - ML/DL: <br>
 > ![BigQueryML](https://img.shields.io/badge/-BigQueryML-EEE.svg?logo=googlebigquery&style=flat&color=F0F8FF&logoColor=)
 > ![NumPy](https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat&color=F0F8FF&logoColor=013243)
@@ -78,12 +74,15 @@ https://www.udemy.com/user/ht-169/
 > ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-F37626.svg?logo=jupyter&style=flat&color=F0F8FF&logoColor=F37626)
 > （![Markdown](https://img.shields.io/badge/-Markdown-000.svg?logo=markdown&style=flat&color=F0F8FF&logoColor=000) 
 > ![Python](https://img.shields.io/badge/-Python-000.svg?logo=python&style=flat&color=F0F8FF&logoColor=3776AB)）
-> - IDE : <br>
+> - (IDE) : <br>
 > ![iTerm2](https://img.shields.io/badge/-iTerm2-000.svg?logo=iterm2&style=flat&color=F0F8FF&logoColor=000)
 > (![Zsh](https://img.shields.io/badge/-Zsh-F15A24.svg?logo=zsh&style=flat&color=F0F8FF&logoColor=F15A24)
 > ![Vim](https://img.shields.io/badge/-vim-57A143.svg?logo=vim&style=flat&color=F0F8FF&logoColor=57A143))
 > - OS : <br>
 > ![Macintosh](https://img.shields.io/badge/-Macintosh-000000.svg?logo=apple&style=flat&color=F0F8FF&logoColor=000000)
+> - Data Base : <br>
+> ![Google Cloud Storage](https://img.shields.io/badge/-Storage-AECBFA.svg?logo=googlecloudstorage&style=flat&color=F0F8FF&logoColor=AECBFA)
+> ![Google Cloud Spanner](https://img.shields.io/badge/-Spanner-4285F4.svg?logo=googlecloudspanner&style=flat&color=F0F8FF&logoColor=)
 > - Data Source : <br>
 > ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&color=F0F8FF&logoColor=FFCA28)
 > ![GA4](https://img.shields.io/badge/-GA4-E37400.svg?logo=google-analytics&style=flat&color=F0F8FF&logoColor=E37400)
